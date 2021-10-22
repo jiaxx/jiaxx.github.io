@@ -3,12 +3,12 @@
 		{
 			"title": "Neural coding",
 			"subtitle": "Investigating information representation, transformation and transmission along visual hierarchy",
-			"img": "representation1"
+			"img": "representation"
 		},
 		{
 			"title": "Dynamic network",
 			"subtitle": "Investigating the dynamic nature of functional networks for different brain states",
-			"img": "brain_RNN"
+			"img": "brainRNN"
 		},
 		{
 			"title": "Brain-machine interface",
