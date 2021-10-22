@@ -1,17 +1,16 @@
 # SITE CONFIGURATION
-title: Steinmetz Lab # your site title
-author: Nick Steinmetz # You :P
+title: Neural Coding Lab # your site title
+author: Xiaoxuan Jia # You :P
 description: > # Meta description of Homepage
-  Neuroscience laboratory at University of Washington, Department of Biological Structure. PI Nick Steinmetz. 
+  Neuroscience laboratory 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.steinmetzlab.net/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jiaxx.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
-  name: Nick Steinmetz
+  name: Xiaoxuan Jia
   links:
-    - https://twitter.com/SteinmetzNeuro
-    - https://github.com/SteinmetzLab
+    - https://github.com/jiaxx
 
 # THEME SETTINGS
 navigation: # Navigation links
@@ -25,22 +24,23 @@ navigation: # Navigation links
 
 
 tagline: >
-  <p><i>at the University of Washington</i></p>
-  <p>We study distributed, brain-wide circuits underlying perception, cognition, and action 
-  using techniques including large-scale electrophysiology, calcium imaging, and optogenetics. 
-  <p>We are part of the <a href="https://www.internationalbrainlab.com/">International Brain Lab</a> and the Neuropixels Consortium.
-  <p>Learn more about <a href="/about">our research</a> and see our <a href="/pubs">publications</a>. We believe in open science; check out our <a href="/shared">shared data and code</a>. We also believe in the value of diversity in science; read our statement <a href="/dei/">here</a>. 
-  <p>The Steinmetz Lab is hiring! If you are interested in <a href="/join">joining us</a>, please get in touch.</p>
+  <p><i></i></p>
+  <p>Understanding information processing in the brain is fundamental to understanding how we perceive the world around us. 
+  <p>Our research lies at the intersection of neuroscience, machine learning and psychology. 
+  <p>We seek to understand the neural codes underlying perception and behavior. 
+  <p>In the long run, we aim to apply algorithms and principles utilized by our brain to build smart interface between 
+  the brain and computer and to inspire better artificial intelligence algorithms. 
+  </p>
 
-hero_img: posts/coriCoronal1_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
-email: nick.steinmetz@gmail.com # email for form submission
+email: jxiaoxuan@gmail.com # email for form submission
 
-twitter_username: SteinmetzNeuro # replace with your_twitter_username or comment to remove link from footer
-github_username:  SteinmetzLab # replace with your_github_username or comment to remove link from footer
-orcid_id: 0000-0001-7029-2908
-scholar_id: PkcYP74AAAAJ
-pubmed_search: Steinmetz%20NA%5BAuthor%5D
+#twitter_username: SteinmetzNeuro # replace with your_twitter_username or comment to remove link from footer
+github_username:  jiaxx # replace with your_github_username or comment to remove link from footer
+#orcid_id: 0000-0001-7029-2908
+#scholar_id: PkcYP74AAAAJ
+#pubmed_search: Steinmetz%20NA%5BAuthor%5D
 # instagram_username: shanlongjj # replace with your_instagram_username or comment to remove link from footer
 
 # disqus:
