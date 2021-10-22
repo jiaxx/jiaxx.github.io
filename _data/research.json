@@ -13,12 +13,12 @@
 		{
 			"title": "Brain-machine interface",
 			"subtitle": "Build close-loop BMI to test the theories of neural encoding and decoding",
-			"img": "icon_widefield"
+			"img": "BMI"
 		},
 		{
 			"title": "Artificial neural network",
 			"subtitle": "Use the state-of-art ANN models to predict brain activity",
-			"img": "icon_subnetworks"
+			"img": "MIT-neural-network"
 		}
 	]
 }
