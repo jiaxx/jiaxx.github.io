@@ -1,10 +1,10 @@
 # SITE CONFIGURATION
-title: NeuroCodeLab # your site title
+title: Neural Coding Lab # your site title
 author: Xiaoxuan Jia # You :P
 description: > # Meta description of Homepage; at University of Washington, Department of Biological Structure. PI Nick Steinmetz. 
-  Neuroscience laboratory 
+  Brain science and AI laboratory 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jiaxx.github.io/NeuroCodeLab/" #http://www.xiaoxuanvision.net/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jiaxx.github.io/" #http://www.xiaoxuanvision.net/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:

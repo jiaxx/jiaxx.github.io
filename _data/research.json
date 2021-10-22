@@ -1,24 +1,24 @@
 {
 	"projects": [
 		{
-			"title": "Neuropixels",
-			"subtitle": "Next-generation electrophysiology",
-			"img": "icon_npix"
+			"title": "Neural coding",
+			"subtitle": "Investigating information representation, transformation and transmission along visual hierarchy",
+			"img": "representation1"
 		},
 		{
-			"title": "Visual psychophysics",
-			"subtitle": "Quantifiable behaviors for mice",
-			"img": "icon_behavior-01"
+			"title": "Dynamic network",
+			"subtitle": "Investigating the dynamic nature of functional networks for different brain states",
+			"img": "brain_RNN"
 		},
 		{
-			"title": "Widefield calcium imaging",
-			"subtitle": "Activity across cortical areas",
+			"title": "Brain-machine interface",
+			"subtitle": "Build close-loop BMI to test the theories of neural encoding and decoding",
 			"img": "icon_widefield"
 		},
 		{
-			"title": "Optogenetics",
-			"subtitle": "Systematically assessing causal roles",
-			"img": "icon_optogenetics"
+			"title": "Artificial neural network",
+			"subtitle": "Use the state-of-art ANN models to predict brain activity",
+			"img": "icon_subnetworks"
 		}
 	]
 }
