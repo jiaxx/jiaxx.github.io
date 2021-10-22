@@ -1,16 +1,18 @@
 # SITE CONFIGURATION
-title: Neural Coding Lab # your site title
+title: NeuroCodeLab # your site title
 author: Xiaoxuan Jia # You :P
-description: > # Meta description of Homepage
+description: > # Meta description of Homepage; at University of Washington, Department of Biological Structure. PI Nick Steinmetz. 
   Neuroscience laboratory 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jiaxx.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jiaxx.github.io/NeuroCodeLab/" #http://www.xiaoxuanvision.net/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
   name: Xiaoxuan Jia
   links:
+    - https://twitter.com/xiaoxuan_jia
     - https://github.com/jiaxx
+    - https://scholar.google.com/citations?user=7waL2dAAAAAJ&hl=en
 
 # THEME SETTINGS
 navigation: # Navigation links
@@ -18,30 +20,30 @@ navigation: # Navigation links
   - {name: 'Team', link: '/people'}
   - {name: 'Research', link: '/about'}
   - {name: 'Publications', link: '/pubs'}
-  - {name: 'Shared Resources', link: '/shared'}
   - {name: 'Join Us', link: '/join'}
   - {name: 'Contact', link: '/contact'}
 
 
 tagline: >
-  <p><i></i></p>
+  <p><i> XX </i></p>
   <p>Understanding information processing in the brain is fundamental to understanding how we perceive the world around us. 
-  <p>Our research lies at the intersection of neuroscience, machine learning and psychology. 
-  <p>We seek to understand the neural codes underlying perception and behavior. 
-  <p>In the long run, we aim to apply algorithms and principles utilized by our brain to build smart interface between 
+  Our research lies at the intersection of neuroscience, machine learning and psychology. 
+  We seek to understand the neural codes underlying perception and behavior. 
+  In the long run, we aim to apply algorithms and principles utilized by our brain to build smart interface between 
   the brain and computer and to inspire better artificial intelligence algorithms. 
-  </p>
+  
+  <p>Learn more about <a href="/about">our research</a> and see our <a href="/pubs">publications</a>. 
 
-hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/waveforms.png # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
-email: jxiaoxuan@gmail.com # email for form submission
+email: jxiaoxuan@gmail.com # email 
 
-#twitter_username: SteinmetzNeuro # replace with your_twitter_username or comment to remove link from footer
+twitter_username: xiaoxuan_jia # replace with your_twitter_username or comment to remove link from footer
 github_username:  jiaxx # replace with your_github_username or comment to remove link from footer
-#orcid_id: 0000-0001-7029-2908
-#scholar_id: PkcYP74AAAAJ
-#pubmed_search: Steinmetz%20NA%5BAuthor%5D
-# instagram_username: shanlongjj # replace with your_instagram_username or comment to remove link from footer
+orcid_id: 0000-0001-5484-9331
+#scholar_id: XXXXX
+# pubmed_search: Xiaoxuan Jia
+# instagram_username: XXXX # replace with your_instagram_username or comment to remove link from footer
 
 # disqus:
 #   shortname: janczizikow # to enable comments replace with your_disqus_shortname
