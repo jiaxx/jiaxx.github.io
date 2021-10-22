@@ -1,0 +1,30 @@
+<div class="post-card" itemprop="blogPosts" itemscope="" itemtype="http://schema.org/BlogPosting">
+
+    {% if project.img %}
+      <figure class="post-card__thumb">
+        <img
+          src="{{ site.url }}{{ site.baseurl }}/assets/img/research/{{project.img}}_placehold.jpg",
+          data-srcset="{{ site.url }}{{ site.baseurl }}/assets/img/research/{{project.img}}.jpg, {{ site.url }}{{ site.baseurl }}/assets/img/research/{{project.img}}_thumb@2x.jpg 2x"
+          class="lazyload blur"
+          alt="{{project.title}}"
+        />
+        <noscript>
+			<img src="{{ site.url }}{{ site.baseurl }}/assets/img/research/{{project.img}}.jpg" alt="{{ project.title }}">
+		</noscript>
+      </figure>
+    {% else %}
+      <figure class="post-card__thumb">
+        <div class="dark-bg"></div>
+      </figure>
+    {% endif %}
+	<div class="post-card__inner">
+    <div class="post-card__header">
+      <h2>{{ project.title | strip_html | truncate: 50 }}</h2>
+
+      <span class="post-card__meta">
+		  {{ project.subtitle }}
+		</span>
+    </div>
+</div>
+
+</div>

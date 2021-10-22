@@ -1,0 +1,60 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en-US" }}">
+
+{% include head.html %}
+
+<body class="site">
+
+  {% if site.google_tag_manager %}
+
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.google_tag_manager }}"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    {% endif %}
+
+    {% include header.html %}
+
+    <div class="hero--small">
+      <div class="hero__wrap">
+        <h1 class="hero__title">The Steinmetz Lab Team</h1>
+      </div>
+    </div>
+
+    <main class="site__content">
+      <section class="blog">
+        <div class="container">
+          <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
+           {% assign people = site.data.people.person %}
+            {% for person in people %}
+              {% if person.status == "active" %}
+                {% include person.html %}
+              {% endif %}
+            {% endfor %}
+
+            
+
+         </div>
+
+          <h2>Alumni</h2>
+            {% assign people = site.data.people.person %}
+
+            {% for person in people %}
+              {% if person.status == "alumni" %}
+                <br>{{ person.name }} ({{ person.years }})
+              {% endif %}
+            {% endfor %}
+
+       </div>
+     </section>
+   </main>
+
+   {% include footer.html %}
+
+ </body>
+
+ </html>

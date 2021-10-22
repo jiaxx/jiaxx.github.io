@@ -1,0 +1,60 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en-US" }}">
+
+  {% include head.html %}
+
+  <body class="site">
+
+    {% if site.google_tag_manager %}
+
+      <!-- Google Tag Manager (noscript) -->
+      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.google_tag_manager }}"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <!-- End Google Tag Manager (noscript) -->
+
+    {% endif %}
+
+    {% include header.html %}
+	
+    <div class="hero--small">
+      <div class="hero__wrap">
+        <h1 class="hero__title">{{ page.title }}</h1>
+      </div>
+    </div>
+
+    <main class="site__content">
+        <div class="container">
+          <div class="page-content">
+		
+		<p>Our goal is to understand the neural mechanisms underlying perception, cognition, and action. In particular, we study how these brain functions are distributed across diverse neural circuits, and how these distributed populations of neurons coordinate their dynamics to generate useful behaviors. </p>
+
+		<p>Our approach is to employ state-of-the-art methods for measuring and manipulating neural activity at large scale and high resolution, combined with sophisticated, quantifiable behavioral tasks and mechanistic modeling. </p>
+
+		<p>Our work specifically involves studying visually-guided behaviors in mice, using techniques such as next-generation Neuropixels electrophysiology, large-scale calcium imaging, systematic optogenetic manipulations, and advanced data analysis and modeling. </p>	
+		
+      <!-- <section class="blog">
+        <div class="container"> -->
+          <div class="post-list" padding-top="0em" itemscope="" itemtype="http://schema.org/Blog">
+			{% assign projects = site.data.research.projects %}
+			{% for project in projects %}
+
+				{% include project.html %}
+			{% endfor %}
+
+          </div>
+        <!-- </div>
+      </section> -->
+				
+			
+  </div>
+</div>
+    </main>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>

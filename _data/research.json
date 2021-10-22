@@ -1,0 +1,24 @@
+{
+	"projects": [
+		{
+			"title": "Neuropixels",
+			"subtitle": "Next-generation electrophysiology",
+			"img": "icon_npix"
+		},
+		{
+			"title": "Visual psychophysics",
+			"subtitle": "Quantifiable behaviors for mice",
+			"img": "icon_behavior-01"
+		},
+		{
+			"title": "Widefield calcium imaging",
+			"subtitle": "Activity across cortical areas",
+			"img": "icon_widefield"
+		},
+		{
+			"title": "Optogenetics",
+			"subtitle": "Systematically assessing causal roles",
+			"img": "icon_optogenetics"
+		}
+	]
+}

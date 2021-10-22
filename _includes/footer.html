@@ -1,0 +1,46 @@
+<footer class="footer">
+  <div class="container">
+	  <nav class="social">
+              
+        <div style="font-size: 20px;">
+		  {% if site.email %}
+		  <a href="mailto:{{site.email}}"><i class="fa fa-envelope-o"></i></a>
+		  {% endif %}
+		  
+		  {% if site.github_username %}
+		  <a href="http://github.com/{{site.github_username}}" target="_blank"><i class="fa fa-github"></i></a>
+		  {% endif %}
+        
+		  {% if site.twitter_username %}
+		  <a href="https://twitter.com/{{site.twitter_username}}" target="_blank"><i class="fa fa-twitter"></i></a>
+		  {% endif %}
+		  
+		  {% if site.orcid_id %}
+		  <a href="https://orcid.org/{{site.orcid_id}}" target="_blank"><i class="ai ai-orcid"></i></a>
+		  {% endif %}
+		  
+		  {% if site.scholar_id %}
+		  <a href="https://scholar.google.co.uk/citations?user={{site.scholar_id}}&hl=en" target="_blank"><i class="ai ai-google-scholar"></i></a>
+		  {% endif %}
+		  
+		  <!-- {% if site.pubmed_search %}
+		  <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term={{site.pubmed_search}}" target="_blank"><i class="ai ai-pubmed"></i></a>
+		  {% endif %} -->
+	  </div>
+	  </nav>
+    <span>&copy; {{ site.time | date: '%Y' }} {{ site.author | escape }}. All rights reserved.</span>
+  </div>
+</footer>
+<script async src="{{ "/assets/js/bundle.js" | relative_url }}"></script>
+{% if site.service_worker %}
+<script async>
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('{{ "/sw.js" | relative_url }}').then(function( registration ) {
+      console.log('ServiceWorker registration successful with scope: ', registration.scope);
+    })
+    .catch(function(error) {
+      console.log('ServiceWorker registration failed: ', error);
+    });
+  }
+</script>
+{% endif %}

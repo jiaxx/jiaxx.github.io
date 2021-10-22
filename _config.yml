@@ -1,0 +1,78 @@
+# SITE CONFIGURATION
+title: Steinmetz Lab # your site title
+author: Nick Steinmetz # You :P
+description: > # Meta description of Homepage
+  Neuroscience laboratory at University of Washington, Department of Biological Structure. PI Nick Steinmetz. 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.steinmetzlab.net/" # the base hostname & protocol for your site, e.g. http://example.com
+
+# SEO PLUGIN
+social:
+  name: Nick Steinmetz
+  links:
+    - https://twitter.com/SteinmetzNeuro
+    - https://github.com/SteinmetzLab
+
+# THEME SETTINGS
+navigation: # Navigation links
+  - {name: 'News', link: '/news'}
+  - {name: 'Team', link: '/people'}
+  - {name: 'Research', link: '/about'}
+  - {name: 'Publications', link: '/pubs'}
+  - {name: 'Shared Resources', link: '/shared'}
+  - {name: 'Join Us', link: '/join'}
+  - {name: 'Contact', link: '/contact'}
+
+
+tagline: >
+  <p><i>at the University of Washington</i></p>
+  <p>We study distributed, brain-wide circuits underlying perception, cognition, and action 
+  using techniques including large-scale electrophysiology, calcium imaging, and optogenetics. 
+  <p>We are part of the <a href="https://www.internationalbrainlab.com/">International Brain Lab</a> and the Neuropixels Consortium.
+  <p>Learn more about <a href="/about">our research</a> and see our <a href="/pubs">publications</a>. We believe in open science; check out our <a href="/shared">shared data and code</a>. We also believe in the value of diversity in science; read our statement <a href="/dei/">here</a>. 
+  <p>The Steinmetz Lab is hiring! If you are interested in <a href="/join">joining us</a>, please get in touch.</p>
+
+hero_img: posts/coriCoronal1_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+
+email: nick.steinmetz@gmail.com # email for form submission
+
+twitter_username: SteinmetzNeuro # replace with your_twitter_username or comment to remove link from footer
+github_username:  SteinmetzLab # replace with your_github_username or comment to remove link from footer
+orcid_id: 0000-0001-7029-2908
+scholar_id: PkcYP74AAAAJ
+pubmed_search: Steinmetz%20NA%5BAuthor%5D
+# instagram_username: shanlongjj # replace with your_instagram_username or comment to remove link from footer
+
+# disqus:
+#   shortname: janczizikow # to enable comments replace with your_disqus_shortname
+
+# google_tag_manager: GTM-XXXXXXX # Uncomment to enable GTM. Replace GTM-XXXXXXX with your GTM container ID
+
+service_worker: true
+
+# BUILD SETTINGS
+markdown: kramdown
+highlighter: rouge # or pygments or null
+# theme: jekyll-sleek # Uncomment if you're using the theme as a ruby gem
+exclude:
+  - README.md
+  - node_modules
+  - script
+  - package.json
+  - package-lock.json
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - npm-debug.log
+  - gulpfile.js
+  - sleek.jpg
+
+include: ['_pages']
+permalink: /:title/
+
+compress_html:
+  clippings: all
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
