@@ -2,30 +2,24 @@
 	"papers": [
 		{
 			"authors": [
-				"Steinmetz NA*",
-				"Aydin C*",
-				"Lebedeva A*",
-				"Okun M*",
-				"Pachitariu M*",
+				"Siegle JH*",
+				"Jia X*",
 				"et al."
 			],
 			"authors_short": [
-				"Steinmetz*",
-				"Aydin*",
-				"Lebedeva*",
-				"Okun*",
-				"Pachitariu*",
+				"Siegle*",
+				"Jia*",
 				"et al."
 			],
-			"title": "Neuropixels 2.0: A miniaturized high-density probe for stable, long-term brain recordings",
+			"title": "Survey of spiking in the mouse visual system reveals functional hierarchy",
 			"year": "2021",
-			"journal": "Science (in press)",
-			"link": "https://www.biorxiv.org/content/10.1101/2020.10.27.358291v1",
+			"journal": "Nature",
+			"link": "https://www.nature.com/articles/s41586-020-03171-x",
 			"tags": [
 				"peerReview",
 				"selected",
 				"neuropixels",
-				"brainwide"
+				"Hierarchy"
 			]
 		},
 		
