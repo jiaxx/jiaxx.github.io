@@ -5,8 +5,6 @@ permalink: /contact/
 ---
 
 
-<p>To be updated ...
-
 
 ### Fill in the form or [email me](mailto:{{site.email}}) to discuss your next project.
 
