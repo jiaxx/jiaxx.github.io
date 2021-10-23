@@ -3,7 +3,7 @@
 		
 		{
 			"authors": [
-				"Siegle JH*<sub>+<sub>",
+				"Siegle JH*<sup>+</sup>",
 				"<b>Jia X*+</b>",
 				"et al."
 			],
@@ -27,7 +27,7 @@
 
 		{
 			"authors": [
-				"<b>Jia X*<sub>+<sub></b>",
+				"<b>Jia X*<sup>+</sup></b>",
 				"Hong H",
 				"DiCarlo JJ"
 			],
@@ -50,7 +50,7 @@
 
 		{
 			"authors": [
-				"<b>Jia X*<sub>+<sub></b>",
+				"<b>Jia X*<<sup>+</sup></b>",
 				"Siegle JH",
 				"Olsen SR",
 				"et al."
@@ -161,7 +161,7 @@
 
 		{
 			"authors": [
-				"<b>Jia X<sub>+<sub></b>",
+				"<b>Jia X<sup>+</sup></b>",
 				"Siegle JH",
 				"Bennett C",
 				"Gale S",
@@ -189,7 +189,7 @@
 
 		{
 			"authors": [
-				"<b>Jia X<sub>+<sub></b>",
+				"<b>Jia X<sup>+</sup></b>",
 				"Tanabe S",
 				"Kohn A",
 			],
@@ -214,7 +214,7 @@
 
 		{
 			"authors": [
-				"<b>Jia X<sub>+<sub></b>",
+				"<b>Jia X<sup>+</sup></b>",
 				"Xing D",
 				"Kohn A",
 			],
@@ -238,7 +238,7 @@
 
 		{
 			"authors": [
-				"Smith MA<sub>+<sub>",
+				"Smith MA<sup>+</sup>",
 				"<b>Jia X</b>",
 				"Zandvakili A",
 				"Kohn A",
@@ -263,7 +263,7 @@
 
 		{
 			"authors": [
-				"<b>Jia X<sub>+<sub></b>",
+				"<b>Jia X<sup>+</sup></b>",
 				"Smith MA",
 				"Kohn A",
 			],
@@ -287,7 +287,7 @@
 
 		{
 			"authors": [
-				"<b>Jia X<sub>+<sub></b>",
+				"<b>Jia X<sup>+</sup></b>",
 				"Kohn A",
 			],
 			"authors_short": [
