@@ -1,26 +1,30 @@
 {
 	"papers": [
+		
 		{
-            "authors": ["</b>Jia X</b>", "Kohn A",],
-            "authors_short": ["Jia",  "Adam" ],
-            "title": "Gamma rhythms in the brain",
-            "year": "2011",
-            "journal": "PLoS Biology",
-            "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001045",
-            "pdflink": "2011 Gamma Rhythms in the Brain.pdf",
-            "tags": ["Gamma", "review"]
-        },
+			"authors": [
+				"Siegle JH*",
+				"<b>Jia X*</b>",
+				"et al."
+			],
+			"authors_short": [
+				"Siegle*",
+				"<b>Jia*</b>",
+				"et al."
+			],
+			"title": "Survey of spiking in the mouse visual system reveals functional hierarchy",
+			"year": "2021",
+			"journal": "Nature",
+			"link": "https://www.nature.com/articles/s41586-020-03171-x",
+			"pdflink": "2021 Survey of spiking in the mouse visual system reveals functional hierarchy.pdf",
+			"tags": [
+				"peerReview",
+				"selected",
+				"neuropixels",
+				"Hierarchy"
+			]
+		},
 
-        {
-            "authors": ["<b>Jia X</b>", "Smith MA", "Kohn A"],
-            "authors_short": ["Jia", "Smith", "Adam" ],
-            "title": "Stimulus selectivity and spatial coherence of gamma components of the local field potential",
-            "year": "2013",
-            "journal": "J. Neurosci.",
-            "link": "https://www.jneurosci.org/content/31/25/9390",
-            "pdflink": "2011 Stimulus Selectivity and Spatial Coherence of Gamma Components of the Local Field Potential.pdf",
-            "tags": ["LFP", "Global gamma", "synchrony", "selectivity", "visual cortex", "primates"]
-        },
 
         {
 			"authors": ["<b>Jia X</b>", "Tanabe S", "Kohn A"],
@@ -32,28 +36,30 @@
             "pdflink": "2013 Gamma and the Coordination of Spiking Activity in Early Visual Cortex.pdf",
             "tags": ["Gamma", "primates", "synchrony", "communication", "V1-V2"]
 		},
+
+        {
+            "authors": ["<b>Jia X</b>", "Smith MA", "Kohn A"],
+            "authors_short": ["Jia", "Smith", "Adam" ],
+            "title": "Stimulus selectivity and spatial coherence of gamma components of the local field potential",
+            "year": "2013",
+            "journal": "J. Neurosci.",
+            "link": "https://www.jneurosci.org/content/31/25/9390",
+            "pdflink": "2011 Stimulus Selectivity and Spatial Coherence of Gamma Components of the Local Field Potential.pdf",
+            "tags": ["LFP", "Global gamma", "synchrony", "selectivity", "visual cortex", "primates"]
+        },
+        
 		{
-			"authors": [
-				"Siegle JH*",
-				"Jia X*",
-				"et al."
-			],
-			"authors_short": [
-				"Siegle*",
-				"Jia*",
-				"et al."
-			],
-			"title": "Survey of spiking in the mouse visual system reveals functional hierarchy",
-			"year": "2021",
-			"journal": "Nature",
-			"link": "https://www.nature.com/articles/s41586-020-03171-x",
-			"tags": [
-				"peerReview",
-				"selected",
-				"neuropixels",
-				"Hierarchy"
-			]
-		},
+            "authors": ["</b>Jia X</b>", "Kohn A",],
+            "authors_short": ["Jia",  "Adam" ],
+            "title": "Gamma rhythms in the brain",
+            "year": "2011",
+            "journal": "PLoS Biology",
+            "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001045",
+            "pdflink": "2011 Gamma Rhythms in the Brain.pdf",
+            "tags": ["Gamma", "review"]
+        },
+
+        
 		
 	]
 }
