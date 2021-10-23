@@ -3,8 +3,8 @@
 		
 		{
 			"authors": [
-				"Siegle JH*",
-				"<b>Jia X*</b>",
+				"Siegle JH*+",
+				"<b>Jia X*+</b>",
 				"et al."
 			],
 			"authors_short": [
@@ -27,61 +27,285 @@
 
 		{
 			"authors": [
-				"Siegle JH*",
-				"<b>Jia X*</b>",
-				"et al."
+				"<b>Jia X*+</b>",
+				"Hong H",
+				"DiCarlo JJ"
 			],
 			"authors_short": [
-				"Siegle*",
 				"<b>Jia*</b>",
 				"et al."
 			],
-			"title": "Test Survey of spiking in the mouse visual system reveals functional hierarchy",
+			"title": "Unsupervised changes in core object recognition behavior are predicted by neural plasticity in inferior temporal cortex",
 			"year": "2021",
-			"journal": "Nature",
-			"link": "https://www.nature.com/articles/s41586-020-03171-x",
-			"pdflink": "2021 Survey of spiking in the mouse visual system reveals functional hierarchy.pdf",
+			"journal": "eLife",
+			"link": "https://elifesciences.org/articles/60830",
+			"pdflink": "2021 Unsupervised changes in core object recognition behavior are predicted by neural plasticity in inferior temporal cortex.pdf",
 			"tags": [
 				"peerReview",
 				"selected",
-				"neuropixels",
-				"Hierarchy"
+				"learning",
+				"psychophysics"
 			]
 		},
 
+		{
+			"authors": [
+				"<b>Jia X*+</b>",
+				"Siegle JH",
+				"Olsen SR"
+				"et al."
+			],
+			"authors_short": [
+				"<b>Jia*</b>",
+				"et al."
+			],
+			"title": "Multi-area functional modules mediate feedforward and recurrent processing in visual cortical hierarchy",
+			"year": "2021",
+			"journal": "bioRxiv",
+			"link": "https://www.biorxiv.org/content/10.1101/2020.08.30.272948v3",
+			"pdflink": "2021 Multi-area functional modules mediate feedforward and recurrent processing in visual cortical hierarchy.pdf",
+			"tags": [
+				"preprint",
+				"selected",
+				"network",
+				"Neuropixels"
+			]
+		},
 
-        {
-			"authors": ["<b>Jia X</b>", "Tanabe S", "Kohn A"],
-            "authors_short": ["Jia", "Tanabe", "Adam" ],
-            "title": "Gamma and the coordination of spiking activity in early visual cortex",
-            "year": "2013",
-            "journal": "Neuron",
-            "link": "https://doi.org/10.1016/j.neuron.2012.12.036",
-            "pdflink": "2013 Gamma and the Coordination of Spiking Activity in Early Visual Cortex.pdf",
-            "tags": ["Gamma", "primates", "synchrony", "communication", "V1-V2"]
+		{
+			"authors": [
+				"Siegle JH*",
+				"Ledochowitsch P*",
+				"<b>Jia X</b>",
+				"et al."
+			],
+			"authors_short": [
+				"<b>Jia*</b>",
+				"et al."
+			],
+			"title": "Reconciling functional differences in populations of neurons recorded with two-photon imaging and electrophysiology",
+			"year": "2021",
+			"journal": "eLife",
+			"link": "https://elifesciences.org/articles/69068",
+			"pdflink": "2021 Reconciling functional differences in populations of neurons recorded with two-photon imaging and electrophysiology.pdf",
+			"tags": [
+				"peerReview",
+				"two-photon imaging",
+				"Neuropixels",
+				"selected",
+				"mouse"
+			]
+		},
+
+		{
+			"authors": [
+				"Billeh YN",
+				"Cai B",
+				"Gratiy SL",
+				"Dai K",
+				"Iyer R",
+				"Gouwens RW",
+				"Abbasi-Asl R",
+				"<b>Jia X</b>",
+				"Siegle JH",
+				"Olsen SR",
+				"Koch C",
+				"Mihalas S",
+				"Arkhipov A+"
+			],
+			"authors_short": [
+				"<b>Jia*</b>",
+				"et al."
+			],
+			"title": "Systematic Integration of Structural and Functional Data into Multi-Scale Models of Mouse Primary Visual Cortex",
+			"year": "2020",
+			"journal": "Neuron",
+			"link": "https://doi.org/10.1016/j.neuron.2020.01.040",
+			"pdflink": "2021 Systematic Integration of Structural and Functional Data into Multi-Scale Models of Mouse Primary Visual Cortex.pdf",
+			"tags": [
+				"peerReview",
+				"model",
+				"selected",
+				"cover"
+			]
 		},
 
         {
-            "authors": ["<b>Jia X</b>", "Smith MA", "Kohn A"],
-            "authors_short": ["Jia", "Smith", "Adam" ],
-            "title": "Stimulus selectivity and spatial coherence of gamma components of the local field potential",
-            "year": "2013",
-            "journal": "J. Neurosci.",
-            "link": "https://www.jneurosci.org/content/31/25/9390",
-            "pdflink": "2011 Stimulus Selectivity and Spatial Coherence of Gamma Components of the Local Field Potential.pdf",
-            "tags": ["LFP", "Global gamma", "synchrony", "selectivity", "visual cortex", "primates"]
-        },
+			"authors": [
+				"Garrett ME",
+				"Manavi S",
+				"Roll K",
+				"Ollerenshaw DR",
+				"Groblewski PA",
+				"Kiggins J",
+				"<b>Jia X</b>",
+				"et al."
+			],
+			"authors_short": [
+				"<b>Jia*</b>",
+				"et al."
+			],
+			"title": "Experience shapes activity dynamics and stimulus coding of VIP inhibitory and excitatory cells in visual cortex",
+			"year": "2020",
+			"journal": "eLife",
+			"link": "https://elifesciences.org/articles/50340",
+			"pdflink": "2020 Experience shapes activity dynamics and stimulus coding of VIP inhibitory and excitatory cells in visual cortex.pdf",
+			"tags": [
+				"peerReview",
+				"learning",
+				"two-photon imaging",
+				"selected",
+				"mouse"
+			]
+		},
 
 		{
-            "authors": ["</b>Jia X</b>", "Kohn A",],
-            "authors_short": ["Jia",  "Adam" ],
-            "title": "Gamma rhythms in the brain",
-            "year": "2011",
-            "journal": "PLoS Biology",
-            "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001045",
-            "pdflink": "2011 Gamma Rhythms in the Brain.pdf",
-            "tags": ["Gamma", "review"]
-        },
+			"authors": [
+				"<b>Jia X+</b>"
+				"Siegle JH",
+				"Bennett C",
+				"Gale S",
+				"Denman D",
+				"Koch C",
+				"Olsen S"
+			],
+			"authors_short": [
+				"<b>Jia*</b>",
+				"et al."
+			],
+			"title": "High-density extracellular probes reveal dendritic backpropagation and facilitate neuron classification",
+			"year": "2018",
+			"journal": "Journal of Neuroscience",
+			"link": "https://doi.org/10.1371/journal.pbio.1001045",
+			"pdflink": "2019 High-density extracellular probes reveal dendritic backpropagation and facilitate neuron classification.pdf",
+			"tags": [
+				"peerReview",
+				"waveform",
+				"selected",
+				"cell type",
+				"Neuropixels"
+			]
+		},
+
+		{
+			"authors": [
+				"<b>Jia X+</b>"
+				"Tanabe S",
+				"Kohn A",
+			],
+			"authors_short": [
+				"<b>Jia*</b>",
+				"et al."
+			],
+			"title": "Gamma and the coordination of spiking activity in early visual cortex",
+			"year": "2013",
+			"journal": "Neuron",
+			"link": "https://doi.org/10.1016/j.neuron.2012.12.036",
+			"pdflink": "2013 Gamma and the Coordination of Spiking Activity in Early Visual Cortex.pdf",
+			"tags": [
+				"peerReview",
+				"gamma",
+				"selected",
+				"synchrony",
+				"communication",
+				"primate"
+			]
+		},
+
+		{
+			"authors": [
+				"<b>Jia X+</b>"
+				"Xing D",
+				"Kohn A",
+			],
+			"authors_short": [
+				"<b>Jia*</b>",
+				"et al."
+			],
+			"title": "No consistent relationship between gamma power and peak frequency in macaque primary visual cortex",
+			"year": "2013",
+			"journal": "Journal of Neuroscience",
+			"link": "https://doi.org/10.1523/JNEUROSCI.1687-12.2013",
+			"pdflink": "2013 No consistent relationship between gamma power and peak frequency in macaque primary visual cortex.pdf",
+			"tags": [
+				"peerReview",
+				"gamma",
+				"selected",
+				"selectivity",
+				"primate"
+			]
+		},
+
+		{
+			"authors": [
+				"Smith MA+",
+				"<b>Jia X</b>"
+				"Zandvakili A",
+				"Kohn A",
+			],
+			"authors_short": [
+				"<b>Jia*</b>",
+				"et al."
+			],
+			"title": "Laminar dependence of neuronal correlation in macaque V1",
+			"year": "2012",
+			"journal": "Journal of Neurophysiology",
+			"link": "https://doi.org/10.1152/jn.00846.2012",
+			"pdflink": "2012 Laminar dependence of neuronal correlation in macaque V1.pdf",
+			"tags": [
+				"peerReview",
+				"gamma",
+				"selected",
+				"selectivity",
+				"primate"
+			]
+		},
+
+		{
+			"authors": [
+				"<b>Jia X+</b>"
+				"Smith MA",
+				"Kohn A",
+			],
+			"authors_short": [
+				"<b>Jia*</b>",
+				"et al."
+			],
+			"title": "Stimulus selectivity and spatial coherence of gamma components of the local field potential",
+			"year": "2011",
+			"journal": "Journal of Neuroscience",
+			"link": "https://doi.org/10.1523/JNEUROSCI.0645-11.2011",
+			"pdflink": "2011 Stimulus selectivity and spatial coherence of gamma components of the local field potential.pdf",
+			"tags": [
+				"peerReview",
+				"gamma",
+				"selected",
+				"selectivity",
+				"primate"
+			]
+		},
+
+		{
+			"authors": [
+				"<b>Jia X+</b>"
+				"Kohn A",
+			],
+			"authors_short": [
+				"<b>Jia*</b>",
+				"et al."
+			],
+			"title": "Gamma rhythms in the brain",
+			"year": "2011",
+			"journal": "Journal of Neuroscience",
+			"link": "https://doi.org/10.1371/journal.pbio.1001045",
+			"pdflink": "2011 Gamma rhythms in the brain.pdf",
+			"tags": [
+				"peerReview",
+				"gamma",
+				"selected",
+				"review",
+			]
+		},
 
         
 		
