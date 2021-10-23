@@ -25,6 +25,30 @@
 			]
 		},
 
+		{
+			"authors": [
+				"Siegle JH*",
+				"<b>Jia X*</b>",
+				"et al."
+			],
+			"authors_short": [
+				"Siegle*",
+				"<b>Jia*</b>",
+				"et al."
+			],
+			"title": "Test Survey of spiking in the mouse visual system reveals functional hierarchy",
+			"year": "2021",
+			"journal": "Nature",
+			"link": "https://www.nature.com/articles/s41586-020-03171-x",
+			"pdflink": "2021 Survey of spiking in the mouse visual system reveals functional hierarchy.pdf",
+			"tags": [
+				"peerReview",
+				"selected",
+				"neuropixels",
+				"Hierarchy"
+			]
+		},
+
 
         {
 			"authors": ["<b>Jia X</b>", "Tanabe S", "Kohn A"],
@@ -47,7 +71,7 @@
             "pdflink": "2011 Stimulus Selectivity and Spatial Coherence of Gamma Components of the Local Field Potential.pdf",
             "tags": ["LFP", "Global gamma", "synchrony", "selectivity", "visual cortex", "primates"]
         },
-        
+
 		{
             "authors": ["</b>Jia X</b>", "Kohn A",],
             "authors_short": ["Jia",  "Adam" ],
