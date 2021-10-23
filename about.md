@@ -1,6 +1,6 @@
 ---
 layout: research
-title: Our Research
+title: Research Directions
 permalink: /about/
 ---
 
