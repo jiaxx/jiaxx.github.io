@@ -6,7 +6,7 @@ permalink: /contact/
 
 
 
-### Fill in the form or [email me](mailto:{{site.email}}) for possible opportunities.
+### Fill in this form or [email me](mailto:{{site.email}}) for possible opportunities.
 
 {% include form.html %}
 
