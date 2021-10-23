@@ -26,13 +26,10 @@ navigation: # Navigation links
 
 tagline: >
   <p><i> XX </i></p>
-  <p>Understanding information processing in the brain is fundamental to understanding how we perceive the world around us. 
-  Our research lies at the intersection of neuroscience, machine learning and psychology. 
-  We seek to understand the neural codes underlying perception and behavior. 
-  In the long run, we aim to apply algorithms and principles utilized by our brain to build smart interface between 
-  the brain and computer and to inspire better artificial intelligence algorithms. 
+  <p>At the neural coding lab, we seek to understand how information is represented and processed in the brain
+  to support flexible perception and behavior. Our research lies at the intersection of neuroscience, machine learning and psychology. 
   
-  <p>Learn more about <a href="/about">our research</a> and see our <a href="/pubs">publications</a>. 
+  <p>To learn more, please check out <a href="/about">our research</a> and <a href="/pubs">publications</a>. 
 
 hero_img: posts/waveforms.png # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
