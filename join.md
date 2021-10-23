@@ -23,7 +23,7 @@ We are looking for a bright, conscientious individual to work as a technician an
 
 <!-- <p><h3>Research technician</h3>
 
-We are looking for a technician at the undergraduate or post-baccalaureate level. Responsibilities will include mouse handling and training, histological preparations, viral injections, and other laboratory tasks. There will be opportunities to use or develop skills in advanced experimental procedures such as brain clearing, electrophysiology, and/or imaging as well as in data science and analysis, according to ability and interest. Please send a CV and a short statement of your interests and goals to nick.steinmetz@gmail.com. We would ideally like someone able to commit at least 8 hours per week. -->
+We are looking for a technician at the undergraduate or post-baccalaureate level. Responsibilities will include mouse handling and training, histological preparations, viral injections, and other laboratory tasks. There will be opportunities to use or develop skills in advanced experimental procedures such as brain clearing, electrophysiology, and/or imaging as well as in data science and analysis, according to ability and interest. Please send a CV and a short statement of your interests and goals to jxiaoxuan@gmail.com. We would ideally like someone able to commit at least 8 hours per week. -->
 
 <!--
 <p><h3>Graduate students</h3>
