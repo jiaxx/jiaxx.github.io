@@ -19,15 +19,16 @@ layout: compress
 
     {% include header.html %}
 
-    <!--
+   
     <div class="hero--small">
       <div class="hero__wrap">
         <h1 class="hero__title">{{ page.title }}</h1>
+         <!--
         For a list of all publications, <a href="{{site.baseurl}}/all_pubs">click here</a>.
-
+        -->
       </div>
     </div>
-    -->
+    
 
 
     <main class="site__content">
@@ -45,9 +46,9 @@ layout: compress
           {% assign papers = pubs.papers | where_exp:"item", "item.year == year" %} 
           <ul>
             {% for paper in  papers %}
-              {% if paper.tags contains "selected" %}
+              <!--{% if paper.tags contains "selected" %}-->
                 {% include paper.html %}
-              {% endif %}
+              <!--{% endif %}-->
             {% endfor %}
           </ul>
 
