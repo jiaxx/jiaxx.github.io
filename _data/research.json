@@ -19,11 +19,12 @@
 			"title": "Artificial neural network",
 			"subtitle": "Use the state-of-art ANN models to predict brain activity",
 			"img": "ANN"
-		}
+		},
 		{
 			"title": "Perceptual learning",
 			"subtitle": "Investigating experience based learning alters internal representation",
 			"img": "learning"
 		}
+		
 	]
 }
