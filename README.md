@@ -1,4 +1,4 @@
-# Steinmetz Lab Website
+# Neural Coding Lab Website
 
 forked from janczizikow/sleek
 

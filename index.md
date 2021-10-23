@@ -5,5 +5,5 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: defaultSplash
-title: Steinmetz Lab
+title: Neural Coding Lab
 ---
