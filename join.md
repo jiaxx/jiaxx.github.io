@@ -6,7 +6,7 @@ permalink: /join/
 
 <h2>The Neural Coding Lab is hiring!</h2>
 
-We are looking for motivated, curious, and talented individuals who are interested in joining a group focused on employing large-scale data analysis, computational modeling and cutting-edge electrophysiology techniques to address fundamental questions about the brain.
+We are looking for motivated, curious, and talented individuals who are interested in joining a growing group focused on neural computation.
 
 <!--
 <p><h3>Post-doctoral scientists</h3>
