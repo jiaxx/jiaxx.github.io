@@ -8,6 +8,18 @@ permalink: /join/
 
 We are looking for motivated, curious, and talented individuals who are interested in joining a growing group focused on neural computation.
 
+<p><h3>Postdoc position</h3>
+	Candidates with a curious mind, a passion to understand neural computation and a strong background in math are welcome to [apply](mailto:{{site.email}}). A PhD in Neuroscience, Computer Science, Applied Math, Data Science or other related fields is encouraged. Informal inquiries are welcome. 
+
+<p><h3>Research assistant for computation</h3>
+	We are looking for research assistant at the post-baccelaureate level to take responsibilities in hardware and software troubleshooting, building data processing infrastructure and HPC management. Strong computational background is necessary. Please send a CV and a short description of your goals to [my email](mailto:{{site.email}}). 
+
+<p><h3>Research technician for experiments</h3>
+	We are looking for experienced and responsible individuals to work as a research technician with a focus on electrophysiological experiments. Responsibilities including mouse handling, surgery, histology and other experiment related tasks. Prior experience is desireable. 
+
+
+
+
 <!--
 <p><h3>Post-doctoral scientists</h3>
 
