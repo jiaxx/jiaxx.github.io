@@ -32,6 +32,7 @@ tagline: >
   <p>To learn more, please check out <a href="/about">our research directions</a> and <a href="/pubs">publications</a>. 
 
   <p>To contact us for possible opportunities to join the team, please checkout <a href="/join">available positions</a> and send an <a href="/contact">inquiry</a> with CV.
+  <p>WARNING: This website is still under development, please clear cookie to checkout new updates.
 
 hero_img: posts/waveforms.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
