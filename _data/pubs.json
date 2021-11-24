@@ -3,30 +3,6 @@
 		
 		{
 			"authors": [
-				"Siegle JH*+",
-				"<b>Jia X*+</b>",
-				"et al."
-			],
-			"authors_short": [
-				"Siegle*",
-				"<b>Jia*</b>",
-				"et al."
-			],
-			"title": "Survey of spiking in the mouse visual system reveals functional hierarchy",
-			"year": "2021",
-			"journal": "Nature",
-			"link": "https://www.nature.com/articles/s41586-020-03171-x",
-			"pdflink": "2021 Survey of spiking in the mouse visual system reveals functional hierarchy.pdf",
-			"tags": [
-				"peerReview",
-				"selected",
-				"neuropixels",
-				"Hierarchy"
-			]
-		},
-
-		{
-			"authors": [
 				"<b>Jia X*+</b>",
 				"Hong H",
 				"DiCarlo JJ"
@@ -50,6 +26,33 @@
 
 		{
 			"authors": [
+				"Siegle JH*+",
+				"<b>Jia X*+</b>",
+				"...",
+				"Koch, C",
+				"Olsen, S"
+			],
+			"authors_short": [
+				"Siegle*",
+				"<b>Jia*</b>",
+				"et al."
+			],
+			"title": "Survey of spiking in the mouse visual system reveals functional hierarchy",
+			"year": "2021",
+			"journal": "Nature",
+			"link": "https://www.nature.com/articles/s41586-020-03171-x",
+			"pdflink": "2021 Survey of spiking in the mouse visual system reveals functional hierarchy.pdf",
+			"tags": [
+				"peerReview",
+				"selected",
+				"neuropixels",
+				"Hierarchy"
+			]
+		},
+
+
+		{
+			"authors": [
 				"<b>Jia X*+</b>",
 				"Siegle JH",
 				"Olsen SR",
@@ -69,6 +72,33 @@
 				"selected",
 				"network",
 				"Neuropixels"
+			]
+		},
+
+		{
+			"authors": [
+				"Dahmen D*",
+				"Recanatesi S*",
+				"<b>Jia X</b>",
+				"Ocker GK",
+				"...",
+				"Helias M",
+				"Shea-Brown E",
+			],
+			"authors_short": [
+				"Dahmen D*",
+				"et al."
+			],
+			"title": "Strong coupling and local control of dimensionality across brain areas",
+			"year": "2021",
+			"journal": "bioRxiv",
+			"link": "https://doi.org/10.1101/2020.11.02.365072",
+			"pdflink": "2021 Strong coupling and local control of dimensionality across brain areas.pdf",
+			"tags": [
+				"preprint",
+				"selected",
+				"dimentionality",
+				"theory"
 			]
 		},
 
@@ -161,7 +191,7 @@
 
 		{
 			"authors": [
-				"<b>Jia X+</b>",
+				"<b>Jia X*+</b>",
 				"Siegle JH",
 				"Bennett C",
 				"Gale S",
