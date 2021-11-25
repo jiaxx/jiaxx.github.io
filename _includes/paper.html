@@ -4,7 +4,7 @@
 	{{paper.authors | join: ', '}}
 	<br><a href="{{paper.link}}">"{{paper.title}}"</a>
 	{% if paper.pdflink %}
-	 [ <a href="{{site.baseurl}}/assets/img/{{paper.pdflink}}">[PDF]</a> ]
+	  <a href="{{site.baseurl}}/assets/img/{{paper.pdflink}}">[PDF]</a> 
 	{% endif %}
 	<br><i>{{paper.journal}}</i>
 	{% if paper.tags contains "preprint" %}
@@ -15,6 +15,9 @@
 	{% endif %}
 	{% if paper.tags contains "commentary" %}
 		<i> [Commentary]</i>
+	{% endif %}
+	{% if paper.tags contains "conference" %}
+		<i> [Conference]</i>
 	{% endif %}
 	<br>&nbsp
 </li>
