@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 title: Neural Coding Lab # your site title
-author: Xiaoxuan Jia # You :P
+author: jiaxx # You :P
 description: > # Meta description of Homepage; at Tsinghua University, Department of Life Science. PI Xiaoxuan Jia. 
   Brain
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -17,7 +17,7 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   #- {name: 'News', link: '/news'}
-  #- {name: 'Team', link: '/people'}
+  #- {name: 'Team', link: '/people'} #_layout/people.html uses data in people.json in /_data; image file in /assets/img/name_thumb@2x.jpg
   - {name: 'Research', link: '/about'}
   - {name: 'Publications', link: '/pubs'}
   - {name: 'Join Us', link: '/join'}
@@ -25,13 +25,13 @@ navigation: # Navigation links
 
 
 tagline: >
-  <p><i> Xiaoxuan Jia's Lab at "to-be-revealed" </i></p>
+  <p><i> Xiaoxuan Jia's Lab at Tsinghua University </i></p>
   <p>At the neural coding lab, we seek to understand how information is represented and processed in the brain
   to support flexible perception and behavior. Our research lies at the intersection of neuroscience, machine learning and psychology. 
   To learn more, please check out our research <a href="/about">directions</a> and <a href="/pubs">publications</a>. 
 
-  <p>To contact us for possible opportunities to join the team, please checkout available <a href="/join">positions</a> and send an <a href="/contact">inquiry</a> with CV.
-  <p>WARNING: This website is still under development, please clear cookie to checkout new updates.
+  <p>We are looking for talented Postdocs and enthusiastic students to join us. 
+  <p>Please checkout available <a href="/join">positions</a> and send an <a href="/contact">inquiry</a> with CV.
 
 hero_img: posts/waveforms.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 

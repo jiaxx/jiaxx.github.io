@@ -7,6 +7,22 @@
 			"status": "active",
 			"url": ""
 		},
+
+		{
+			"name": "Peng Jiang",
+			"role": "PhD student",
+			"img": "jiangp",
+			"status": "active",
+			"url": ""
+		},
+
+		{
+			"name": "Yue Zhu",
+			"role": "PhD student",
+			"img": "zhuy",
+			"status": "active",
+			"url": ""
+		},
 		
 	]
 }
