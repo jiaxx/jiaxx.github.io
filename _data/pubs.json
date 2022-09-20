@@ -1,7 +1,34 @@
 {
 	"papers": [
 		
-		
+		{
+			"authors": [
+				"Zhuang, C",
+				"Xiang, V",
+				"Bai, Y",
+				"<b>Jia, X<b>",
+				"Turk-Browne, N",
+				"Norman, K",
+				"DiCarlo, JJ",
+				"Yamins, DLK"
+			],
+			"authors_short": [
+				"<b>Jia*</b>",
+				"et al."
+			],
+			"title": "How Well Do Unsupervised Learning Algorithms Model Human Real-time and Life-long Learning?",
+			"year": "2022",
+			"journal": "NeurIPS",
+			"link": "https://openreview.net/forum?id=c0l2YolqD2T&noteId=WuvQmP-KBPD",
+			"pdflink": "2022 How Well Do Unsupervised Learning Algorithms Model Human Real-time and Life-long Learning.pdf",
+			"tags": [
+				"peerReview",
+				"selected",
+				"Unsupervised",
+				"Benchmark"
+			]
+		},
+
         {
 			"authors": [
 				"<b>Jia X*+</b>",
