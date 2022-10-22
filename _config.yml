@@ -21,6 +21,7 @@ navigation: # Navigation links
   - {name: 'Research', link: '/about'}
   - {name: 'Publications', link: '/pubs'}
   - {name: 'Join Us', link: '/join'}
+  - {name: 'Culture', link: '/culture'}
   - {name: 'Contact', link: '/contact'}
 
 
