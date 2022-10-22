@@ -4,17 +4,17 @@ title: Lab Culture
 permalink: /culture/
 ---
 
-<h3>Our lab culture!</h3>
+<h3>Lab culture and expectations:</h3>
 
-We aim to build a prefessional, inclusive and friendly workplace.
+We aim to build a professional, inclusive and friendly workplace.
 
 <p>A place where everyone can enjoy making discoveries and solving mysteries about the brain.
 	
-<p>A safe and tolerant environment for open discussion and diverse opinions.
+<p>A safe and tolerant environment for open discussions and diverse opinions.
 
-<p>We help each other and work as a team.
+<p>A warm place where we help each other grow and work as a team.
 	
-<p>People joining the lab are expected to respect each other, embrace our lab culture and protect the harmony of our working environment.
+<p>People joining the lab are expected treat each other with dignity and respect, embrace our lab culture and protect the harmony of our workplace.
 	
-<p>Notice: we will continually revise our lab culture based on shared interests.
+<p>Notice: we will continually revise/grow our lab culture based on shared interests.
 
