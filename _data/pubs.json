@@ -392,7 +392,26 @@
 			]
 		},
 
-        
+
+        {
+			"authors": [
+				"<b>Jia X*</b>",
+				"Kohn A",
+			],
+			"authors_short": [
+				"<b>Jia*</b>",
+				"et al."
+			],
+			"title": "Gamma rhythm and its relationship with neuronal activity in early visual cortex",
+			"year": "2012",
+			"journal": "Thesis",
+			"link": "https://repository.yu.edu/handle/20.500.12202/1298",
+			"pdflink": "2012 Thesis_Xiaoxuan Jia.pdf",
+			"tags": [
+				"gamma",
+				"selected",
+			]
+		},
 		
 	]
 }
