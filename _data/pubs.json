@@ -3,6 +3,63 @@
 		
 		{
 			"authors": [
+				"Wei, Y",
+				"Nandi, A",
+				"<b>Jia, X</b>",
+				"Siegle, JH",
+				"Denman, D",
+				"...",
+				"Anastassiou, CA"
+			],
+			"authors_short": [
+				"Wei",
+				"et al."
+			],
+			"title": "Associations between in vitro, in vivo and in silico cell classes in mouse primary visual cortex",
+			"year": "2023",
+			"journal": "Nature Communication",
+			"link": "https://www.nature.com/articles/s41467-023-37844-8",
+			"pdflink": "2023 Associations between in vitro, in vivo and in silico cell classes in mouse primary visual cortex.pdf",
+			"tags": [
+				"peerReview",
+				"selected",
+				"waveform",
+				"cell type",
+				"model"
+			]
+		},
+
+		{
+			"authors": [
+				"Garrett, M",
+				"Groblewski, P",
+				"Piet, A",
+				"Ollerenshaw, D",
+				"Najafi, F",
+				"Yavorska, I",
+				"...",
+				"<b>Jia, X</b>",
+				"...",
+				"Olsen, SR"
+			],
+			"authors_short": [
+				"Garrett",
+				"et al."
+			],
+			"title": "Stimulus novelty uncovers coding diversity in visual cortical circuits",
+			"year": "2023",
+			"journal": "bioRxiv",
+			"link": "https://www.biorxiv.org/content/10.1101/2023.02.14.528085v2.abstract",
+			"pdflink": "2023 Stimulus novelty uncovers coding diversity in visual cortical circuits.pdf",
+			"tags": [
+				"preprint",
+				"selected",
+				"Novelty",
+			]
+		},
+
+		{
+			"authors": [
 				"Zhuang, C",
 				"Xiang, V",
 				"Bai, Y",
