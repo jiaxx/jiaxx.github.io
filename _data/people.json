@@ -56,6 +56,22 @@
 			"url": "https://alych9.github.io/"
 		},
 
+		{
+			"name": "Zimo Ren Zhang",
+			"role": "PhD student",
+			"img": "zimo",
+			"status": "active",
+			"url": ""
+		},
+
+		{
+			"name": "Yuxuan Cao",
+			"role": "PhD student",
+			"img": "yuxuan",
+			"status": "active",
+			"url": ""
+		},
+
 
 	]
 }
