@@ -41,7 +41,11 @@ layout: compress
          {% assign years = "2023, 2022, 2021, 2020, 2018, 2013, 2012, 2011" | split: ", " %}
 
          {% for year in years %}
-         <p><h3>{{ year }}</h3>
+         <p><h3 {
+                font-family: Arial, Helvetica, sans-serif;
+                }>{{ year }}</h3>
+
+
          
 
           {% assign papers = pubs.papers | where_exp:"item", "item.year == year" %} 
