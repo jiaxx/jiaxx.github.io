@@ -1,31 +1,49 @@
 {
 	"person": [
+		
 		{
-			"name": "Xueyan Sun",
-			"role": "Rotation student",
-			"status": "inactive",
+			"name": "Benjie Miao",
+			"role": "Research assistant",
+			"img": "bjmiao",
+			"status": "alumni",
 			"url": ""
 		},
+
+		{
+			"name": "Xiaofu(Fiona) Sun",
+			"role": "Summer intern",
+			"img": "xiuning",
+			"status": "alumni",
+			"url": ""
+		},
+
 
 
 		{
 			"name": "Junqiang Hu",
 			"role": "Rotation student",
-			"status": "inactive",
+			"status": "alumni",
 			"url": ""
 		},
 
 		{
 			"name": "Mian Xie",
 			"role": "Rotation student",
-			"status": "inactive",
+			"status": "alumni",
 			"url": ""
 		},
 
         {
 			"name": "Lanqi Wu",
 			"role": "Rotation student",
-			"status": "inactive",
+			"status": "alumni",
+			"url": ""
+		},
+
+		{
+			"name": "Xueyan Sun",
+			"role": "Rotation student",
+			"status": "alumni",
 			"url": ""
 		},
 

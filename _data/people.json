@@ -32,17 +32,10 @@
 			"url": ""
 		},
 
-		{
-			"name": "Benjie Miao",
-			"role": "Research assistant",
-			"img": "bjmiao",
-			"status": "active",
-			"url": ""
-		},
 
 		{
 			"name": "Disheng Tang",
-			"role": "Research assistant",
+			"role": "PhD student",
 			"img": "disheng",
 			"status": "active",
 			"url": ""
@@ -73,5 +66,15 @@
 		},
 
 
+
+		{
+			"name": "Xiuning Zhang",
+			"role": "Summer intern",
+			"img": "xiuning",
+			"status": "active",
+			"url": ""
+		},
+
+		
 	]
 }
