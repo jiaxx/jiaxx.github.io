@@ -1,0 +1,33 @@
+{
+	"person": [
+		{
+			"name": "Xueyan Sun",
+			"role": "Rotation student",
+			"status": "inactive",
+			"url": ""
+		},
+
+
+		{
+			"name": "Junqiang Hu",
+			"role": "Rotation student",
+			"status": "inactive",
+			"url": ""
+		},
+
+		{
+			"name": "Mian Xie",
+			"role": "Rotation student",
+			"status": "inactive",
+			"url": ""
+		},
+
+        {
+			"name": "Lanqi Wu",
+			"role": "Rotation student",
+			"status": "inactive",
+			"url": ""
+		},
+
+	]
+}

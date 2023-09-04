@@ -41,11 +41,11 @@ layout: compress
          </div>
 
           <h2>Alumni</h2>
-            {% assign people = site.data.people.person %}
+            {% assign people = site.data.alumni.person %}
 
             {% for person in people %}
               {% if person.status == "alumni" %}
-                <br>{{ person.name }} ({{ person.years }})
+                <br>{{ person.name }} ({{ person.role }})
               {% endif %}
             {% endfor %}
 
