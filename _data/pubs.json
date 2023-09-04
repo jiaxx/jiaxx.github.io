@@ -3,6 +3,29 @@
 		
 		{
 			"authors": [
+				"Tang, D",
+				"Zylberberg, J*",
+				"<b>Jia, X*</b>",
+				"Choi, H*",
+			],
+			"authors_short": [
+				"Tang",
+				"et al."
+			],
+			"title": "Stimulus-dependent functional network topology in mouse visual cortex",
+			"year": "2023",
+			"journal": "bioRxiv",
+			"link": "https://www.biorxiv.org/content/10.1101/2023.07.03.547364v1",
+			"pdflink": "2023 Stimulus-dependent functional network topology in mouse visual cortex.pdf",
+			"tags": [
+				"preprint",
+				"selected",
+				"network"
+			]
+		},
+
+		{
+			"authors": [
 				"Wei, Y",
 				"Nandi, A",
 				"<b>Jia, X</b>",
