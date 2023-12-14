@@ -58,6 +58,30 @@
 			"url": ""
 		},
 
+		{
+			"name": "Fan Ye",
+			"role": "Rotation student",
+			"img": "yefan",
+			"status": "active",
+			"url": "https://yefan-0.github.io/Blog/"
+		},
+
+		{
+			"name": "Jiatai Song",
+			"role": "Undergraduate researcher",
+			"img": "songjt",
+			"status": "active",
+			"url": ""
+		},
+
+		{
+			"name": "Jiaji Zhu",
+			"role": "Undergraduate researcher",
+			"img": "JiajiZhu",
+			"status": "active",
+			"url": ""
+		},
+
 
 
 		
