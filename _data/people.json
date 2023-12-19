@@ -66,6 +66,15 @@
 			"url": "https://yefan-0.github.io/Blog/"
 		},
 
+
+		{
+			"name": "Lan Jiang",
+			"role": "Rotation Student",
+			"img": "jianglan",
+			"status": "active",
+			"url": ""
+		},
+
 		{
 			"name": "Jiatai Song",
 			"role": "Undergraduate researcher",
@@ -81,8 +90,6 @@
 			"status": "active",
 			"url": ""
 		},
-
-
 
 		
 	]
