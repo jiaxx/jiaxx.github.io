@@ -4,6 +4,7 @@
 			"title": "Neural coding",
 			"subtitle": "Investigating information representation, transformation and transmission along visual hierarchy",
 			"img": "representation"
+
 		},
 		{
 			"title": "Dynamic network",
@@ -23,7 +24,8 @@
 		{
 			"title": "Learning rule",
 			"subtitle": "Investigating how experience based learning manipulates internal representation",
-			"img": "learning"
+			"img": "learning",
+			"url": "https://elifesciences.org/articles/60830"
 		}
 		
 	]
