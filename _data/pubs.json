@@ -3,6 +3,27 @@
 		
 		{
 			"authors": [
+				"Mendoza-Halliday, D.",
+				"et al"
+			],
+			"authors_short": [
+				"Mendoza-Halliday, D.",
+				"et al."
+			],
+			"title": "A ubiquitous spectrolaminar motif of local field potential power across the primate cortex",
+			"year": "2024",
+			"journal": "Nature Neuroscience",
+			"link": "https://www.nature.com/articles/s41593-023-01554-7",
+			"pdflink": "2024 A ubiquitous spectrolaminar motif of local field potential power across the primate cortex.pdf",
+			"tags": [
+				"peerReview",
+				"selected",
+				"LFP"
+			]
+		},
+
+		{
+			"authors": [
 				"Tang, D",
 				"Zylberberg, J*",
 				"<b>Jia, X*</b>",
