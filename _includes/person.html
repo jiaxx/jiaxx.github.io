@@ -37,11 +37,13 @@
       <span class="post-card__meta">
 		  {{ person.role }}
 		  </span>
-      {% if person.email %}
+      <!-- {% if person.email %}
       <span class="post-card__meta">
-        <a href="mailto:{{ person.email }}">{{ person.email }}</a>
+        <a href="mailto:{{ person.email }}">
+          <i class="fa fa-envelope-o"></i>
+        </a>
       </span>
-      {% endif %}
+      {% endif %} -->
     </div>
     <!-- {% if post.summary %}
       <p>{{ post.summary | strip_html | truncatewords:20 }}</p>
