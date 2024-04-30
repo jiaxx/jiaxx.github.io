@@ -3,7 +3,38 @@
 		
 		{
 			"authors": [
-				"Mendoza-Halliday, D.",
+				"Akella S",
+				"Ledochowitsch P",
+				"Siegle JH",
+				"Belski H",
+				"Denman D",
+				"Buice MA",
+				"Durand S",
+				"Koch C",
+				"Olsen SR",
+				"<b>Jia X*</b>",
+			],
+			"authors_short": [
+				"Akella, S.",
+				"et al."
+			],
+			"title": "Deciphering neuronal variability across states reveals dynamic sensory encoding",
+			"year": "2024",
+			"journal": "bioRxiv",
+			"link": "https://www.biorxiv.org/content/10.1101/2024.04.03.587408v2",
+			"pdflink": "2024 Deciphering neuronal variability across states reveals dynamic sensory encoding.pdf",
+			"tags": [
+				"preprint",
+				"selected",
+				"variability"
+			]
+		},
+
+		
+
+		{
+			"authors": [
+				"Mendoza-Halliday D.",
 				"et al"
 			],
 			"authors_short": [
@@ -24,9 +55,9 @@
 
 		{
 			"authors": [
-				"Tang, D",
-				"Zylberberg, J*",
-				"<b>Jia, X*</b>",
+				"Tang D",
+				"Zylberberg J*",
+				"<b>Jia X*</b>",
 				"Choi, H*",
 			],
 			"authors_short": [
@@ -47,13 +78,13 @@
 
 		{
 			"authors": [
-				"Wei, Y",
-				"Nandi, A",
-				"<b>Jia, X</b>",
-				"Siegle, JH",
-				"Denman, D",
+				"Wei Y",
+				"Nandi A",
+				"<b>Jia X</b>",
+				"Siegle JH",
+				"Denman D",
 				"...",
-				"Anastassiou, CA"
+				"Anastassiou CA"
 			],
 			"authors_short": [
 				"Wei",
@@ -75,16 +106,16 @@
 
 		{
 			"authors": [
-				"Garrett, M",
-				"Groblewski, P",
-				"Piet, A",
-				"Ollerenshaw, D",
-				"Najafi, F",
-				"Yavorska, I",
+				"Garrett M",
+				"Groblewski P",
+				"Piet A",
+				"Ollerenshaw D",
+				"Najafi F",
+				"Yavorska I",
 				"...",
-				"<b>Jia, X</b>",
+				"<b>Jia X</b>",
 				"...",
-				"Olsen, SR"
+				"Olsen SR"
 			],
 			"authors_short": [
 				"Garrett",
@@ -104,14 +135,14 @@
 
 		{
 			"authors": [
-				"Zhuang, C",
-				"Xiang, V",
-				"Bai, Y",
-				"<b>Jia, X</b>",
-				"Turk-Browne, N",
-				"Norman, K",
-				"DiCarlo, JJ",
-				"Yamins, DLK"
+				"Zhuang C",
+				"Xiang V",
+				"Bai Y",
+				"<b>Jia X</b>",
+				"Turk-Browne N",
+				"Norman K",
+				"DiCarlo JJ",
+				"Yamins DLK"
 			],
 			"authors_short": [
 				"<b>Jia*</b>",
@@ -133,12 +164,12 @@
         {
 			"authors": [
 				"<b>Jia X*</b>",
-				"Siegle, JH",
-				"Duranc, S",
-				"Heller, G",
-				"Ramirez, TK",
-				"Koch, C",
-				"Olsen, SR"
+				"Siegle JH",
+				"Duranc S",
+				"Heller G",
+				"Ramirez TK",
+				"Koch C",
+				"Olsen SR"
 			],
 			"authors_short": [
 				"<b>Jia*</b>",
