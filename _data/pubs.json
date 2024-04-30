@@ -34,8 +34,13 @@
 
 		{
 			"authors": [
-				"Mendoza-Halliday D.",
-				"et al"
+				"Mendoza-Halliday D*",
+				"...",
+				"<b>Jia X</b>",
+				"...",
+				"Desimone R",
+				"Miller EK",
+				"Bastos AM*",
 			],
 			"authors_short": [
 				"Mendoza-Halliday, D.",
@@ -316,7 +321,7 @@
 
 		{
 			"authors": [
-				"Billeh YN",
+				"Billeh YN*",
 				"Cai B",
 				"Gratiy SL",
 				"Dai K",
@@ -328,7 +333,7 @@
 				"Olsen SR",
 				"Koch C",
 				"Mihalas S",
-				"Arkhipov A+"
+				"Arkhipov A*"
 			],
 			"authors_short": [
 				"<b>Jia*</b>",
@@ -349,7 +354,7 @@
 
         {
 			"authors": [
-				"Garrett ME",
+				"Garrett ME*",
 				"Manavi S",
 				"Roll K",
 				"Ollerenshaw DR",
