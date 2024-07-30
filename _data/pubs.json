@@ -3,6 +3,29 @@
 		
 		{
 			"authors": [
+				"Tang D*",
+				"Zylberberg J*",
+				"<b>Jia X*</b>",
+				"Choi H*",
+			],
+			"authors_short": [
+				"Tang, D.",
+				"et al."
+			],
+			"title": "Stimulus type shapes the topology of cellular functional networks in mouse visual cortex",
+			"year": "2024",
+			"journal": "Nature Communications",
+			"link": "https://www.nature.com/articles/s41467-024-49704-0",
+			"pdflink": "2024 Stimulus type shapes the topology of cellular functional networks in mouse visual cortex.pdf",
+			"tags": [
+				"peerReview",
+				"selected",
+				"network"
+			]
+		},
+
+		{
+			"authors": [
 				"Akella S*",
 				"Ledochowitsch P",
 				"Siegle JH",
@@ -97,7 +120,7 @@
 			],
 			"title": "Associations between in vitro, in vivo and in silico cell classes in mouse primary visual cortex",
 			"year": "2023",
-			"journal": "Nature Communication",
+			"journal": "Nature Communications",
 			"link": "https://www.nature.com/articles/s41467-023-37844-8",
 			"pdflink": "2023 Associations between in vitro, in vivo and in silico cell classes in mouse primary visual cortex.pdf",
 			"tags": [

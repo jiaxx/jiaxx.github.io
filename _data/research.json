@@ -17,15 +17,21 @@
 			"img": "BMI"
 		},
 		{
-			"title": "Artificial neural network",
-			"subtitle": "Use the state-of-art ANN models to predict brain activity",
+			"title": "NeuroAI",
+			"subtitle": "Use the state-of-art DNN models to predict brain activity and vice versa",
 			"img": "ANN"
 		},
 		{
 			"title": "Learning rule",
-			"subtitle": "Investigating how experience based learning manipulates internal representation",
+			"subtitle": "Search for a simple rule that guides the self-organization of the complex networks",
 			"img": "learning",
 			"url": "https://elifesciences.org/articles/60830"
+		},
+		{
+			"title": "Mind-reader",
+			"subtitle": "Where Sci-Fi comes true",
+			"img": "EEG_decoder",
+			"url": ""
 		}
 		
 	]

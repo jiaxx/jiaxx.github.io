@@ -18,15 +18,6 @@
 
 
 		{
-			"name": "Jiali Jiang",
-			"role": "Research assistant",
-			"img": "jiangjl",
-			"status": "active",
-			"url": ""
-		},
-
-
-		{
 			"name": "Disheng Tang",
 			"role": "PhD student",
 			"img": "disheng",
@@ -60,7 +51,7 @@
 
 		{
 			"name": "Fan Ye",
-			"role": "Rotation student",
+			"role": "PhD student",
 			"img": "yefan",
 			"status": "active",
 			"url": "https://yefan-0.github.io/about/"
@@ -69,7 +60,7 @@
 
 		{
 			"name": "Lan Jiang",
-			"role": "Rotation Student",
+			"role": "PhD student",
 			"img": "jianglan",
 			"status": "active",
 			"url": ""
@@ -95,6 +86,14 @@
 			"name": "Zhouyang (Hanson) Lu",
 			"role": "Undergraduate researcher",
 			"img": "hanson",
+			"status": "active",
+			"url": ""
+		},
+
+		{
+			"name": "Qianyun Xia",
+			"role": "Research assistance",
+			"img": "qianyun",
 			"status": "active",
 			"url": ""
 		},

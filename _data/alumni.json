@@ -2,6 +2,14 @@
 	"person": [
 		
 		{
+			"name": "Jiali Jiang",
+			"role": "Research assistant",
+			"img": "jiangjl",
+			"status": "alumni",
+			"url": ""
+		},
+
+		{
 			"name": "Benjie Miao",
 			"role": "Research assistant",
 			"img": "bjmiao",
@@ -19,7 +27,7 @@
 
         {
 			"name": "Yue Zhu",
-			"role": "Rotation and pre-candidate student",
+			"role": "Rotation student",
 			"status": "alumni",
 			"url": ""
 		},
