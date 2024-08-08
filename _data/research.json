@@ -17,20 +17,20 @@
 			"img": "BMI"
 		},
 		{
-			"title": "NeuroAI",
+			"title": "Deep learning models",
 			"subtitle": "Use the state-of-art DNN models to predict brain activity and vice versa",
 			"img": "ANN"
 		},
 		{
 			"title": "Learning rule",
-			"subtitle": "Search for a simple rule that guides the self-organization of the complex networks",
+			"subtitle": "Search for simple rules that guides the self-organization of the complex networks",
 			"img": "learning",
 			"url": "https://elifesciences.org/articles/60830"
 		},
 		{
-			"title": "Mind-reader",
-			"subtitle": "Where Sci-Fi comes true",
-			"img": "EEG_decoder",
+			"title": "Brain-reader",
+			"subtitle": "Generate images directly from brain activity",
+			"img": "brain_reader",
 			"url": ""
 		}
 		
