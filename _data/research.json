@@ -3,13 +3,15 @@
 		{
 			"title": "Neural coding",
 			"subtitle": "Investigating information representation, transformation and transmission along visual hierarchy",
-			"img": "representation"
+			"img": "representation",
+			"url":"https://www.nature.com/articles/s41586-020-03171-x"
 
 		},
 		{
 			"title": "Dynamic network",
 			"subtitle": "Investigating the dynamic nature of functional networks for different brain states",
-			"img": "brainRNN"
+			"img": "brainRNN",
+			"url":"https://www.nature.com/articles/s41467-024-49704-0"
 		},
 		{
 			"title": "Brain-machine interface",
@@ -19,7 +21,8 @@
 		{
 			"title": "Deep learning models",
 			"subtitle": "Use the state-of-art DNN models to predict brain activity and vice versa",
-			"img": "ANN"
+			"img": "ANN",
+			"url":"https://openreview.net/forum?id=c0l2YolqD2T&noteId=WuvQmP-KBPD"
 		},
 		{
 			"title": "Learning rule",
