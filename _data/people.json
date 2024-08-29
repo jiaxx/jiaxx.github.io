@@ -4,6 +4,7 @@
 			"name": "Xiaoxuan Jia",
 			"role": "Principal Investigator",
 			"img": "jiaxx",
+			"email": "jiaxx@tsinghua.edu.cn",
 			"status": "active",
 			"url": "https://life.tsinghua.edu.cn/lifeen/info/1035/1581.htm"
 		},
@@ -13,7 +14,8 @@
 			"role": "PhD student",
 			"img": "jiangp",
 			"status": "active",
-			"url": "https://jp-17.github.io/",
+			"email": "jiangp@tsinghua.edu.cn",
+			"url": "https://jp-17.github.io/"
 		},
 
 
@@ -96,7 +98,7 @@
 			"img": "qianyun",
 			"status": "active",
 			"url": ""
-		},
+		}
 
 		
 	]
