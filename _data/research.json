@@ -14,28 +14,12 @@
 			"url":"https://www.nature.com/articles/s41467-024-49704-0"
 		},
 		{
-			"title": "Brain-machine interface",
-			"subtitle": "Build close-loop BMI to test the theories of neural encoding and decoding",
-			"img": "BMI"
-		},
-		{
-			"title": "Deep learning models",
-			"subtitle": "Use the state-of-art DNN models to predict brain activity and vice versa",
-			"img": "ANN",
-			"url":"https://openreview.net/forum?id=c0l2YolqD2T&noteId=WuvQmP-KBPD"
-		},
-		{
 			"title": "Learning rule",
 			"subtitle": "Search for simple rules that guide the self-organization of the complex networks",
 			"img": "learning",
 			"url": "https://elifesciences.org/articles/60830"
 		},
-		{
-			"title": "Brain-reader",
-			"subtitle": "Generate images directly from brain activity",
-			"img": "brainreader",
-			"url": ""
-		}
+		
 		
 	]
 }
