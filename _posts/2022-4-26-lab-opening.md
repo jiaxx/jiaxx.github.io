@@ -5,4 +5,4 @@ featured-img: THLogo
 categories:
 ---
 
-The Neural Coding Lab opened at the Tsinghua University in April, 2022!
+The Neural Coding Lab opened in 2022!

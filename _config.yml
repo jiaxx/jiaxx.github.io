@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 title: Neural Coding Lab # your site title
 author: jiaxx # You :P
-description: > # Meta description of Homepage; at Tsinghua University, Department of Life Science. PI Xiaoxuan Jia. 
+description: > # Meta description of Homepage 
   Brain
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jiaxx.github.io/" #http://www.xiaoxuanvision.net/" # the base hostname & protocol for your site, e.g. http://example.com
@@ -10,7 +10,7 @@ url: "https://jiaxx.github.io/" #http://www.xiaoxuanvision.net/" # the base host
 social:
   name: Xiaoxuan Jia
   links:
-    - https://twitter.com/xiaoxuan_jia
+    - https://github.com/NeuralCoding-Lab
     - https://github.com/jiaxx
     - https://scholar.google.com/citations?user=7waL2dAAAAAJ&hl=en
 
