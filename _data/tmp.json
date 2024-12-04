@@ -1,3 +1,5 @@
+{
+	"projects": [
 		{
 			"title": "Brain-reader",
 			"subtitle": "Generate images directly from brain activity",
@@ -15,3 +17,6 @@
 			"img": "ANN",
 			"url":"https://openreview.net/forum?id=c0l2YolqD2T&noteId=WuvQmP-KBPD"
 		},
+
+	]
+}
