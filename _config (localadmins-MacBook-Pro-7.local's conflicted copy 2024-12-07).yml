@@ -1,0 +1,79 @@
+# SITE CONFIGURATION
+title: Neural Coding Lab # your site title
+author: jiaxx # You :P
+description: > # Meta description of Homepage 
+  Brain
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://jiaxx.github.io/" #http://www.xiaoxuanvision.net/" # the base hostname & protocol for your site, e.g. http://example.com
+
+# SEO PLUGIN
+social:
+  name: Xiaoxuan Jia
+  links:
+    - https://github.com/NeuralCoding-Lab
+    - https://github.com/jiaxx
+    - https://scholar.google.com/citations?user=7waL2dAAAAAJ&hl=en
+
+# THEME SETTINGS
+navigation: # Navigation links
+  #- {name: 'News', link: '/news'}
+  - {name: 'Team', link: '/people'} #_layout/people.html uses data in people.json in /_data; image file in /assets/img/name_thumb@2x.jpg
+  - {name: 'Research', link: '/about'}
+  - {name: 'Publications', link: '/pubs'}
+  - {name: 'Join Us', link: '/join'}
+  - {name: 'Culture', link: '/culture'}
+  - {name: 'Contact', link: '/contact'}
+
+
+tagline: >
+  <p><i> Xiaoxuan Jia's Lab </i></p>
+  <p>At the neural coding lab, we seek to understand how information is represented and processed in the mammalian brain
+  to support flexible perception and behavior. To learn more, please check out our research <a href="/about">directions</a> and <a href="/pubs">publications</a>. 
+
+  <p>We are looking for talented Postdocs and enthusiastic students to join us. 
+  <p>Please checkout available <a href="/join">positions</a> and send an <a href="/contact">inquiry</a> with CV.
+
+hero_img: posts/waveforms.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+
+email: jxiaoxuan@gmail.com # email 
+
+twitter_username: xiaoxuan_jia # replace with your_twitter_username or comment to remove link from footer
+github_username:  jiaxx # replace with your_github_username or comment to remove link from footer
+orcid_id: 0000-0001-5484-9331
+#scholar_id: XXXXX
+# pubmed_search: Xiaoxuan Jia
+# instagram_username: XXXX # replace with your_instagram_username or comment to remove link from footer
+
+# disqus:
+#   shortname: jiaxx # to enable comments replace with your_disqus_shortname
+
+# google_tag_manager: GTM-XXXXXXX # Uncomment to enable GTM. Replace GTM-XXXXXXX with your GTM container ID
+
+service_worker: true
+
+# BUILD SETTINGS
+markdown: kramdown
+highlighter: rouge # or pygments or null
+# theme: jekyll-sleek # Uncomment if you're using the theme as a ruby gem
+exclude:
+  - README.md
+  - node_modules
+  - script
+  - package.json
+  - package-lock.json
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - npm-debug.log
+  - gulpfile.js
+  - sleek.jpg
+
+include: ['_pages']
+permalink: /:title/
+
+compress_html:
+  clippings: all
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
