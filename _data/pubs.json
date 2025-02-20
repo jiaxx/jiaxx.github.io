@@ -1,6 +1,36 @@
 {
 	"papers": [
 		
+		
+		{
+			"authors": [
+				"Akella S*",
+				"Ledochowitsch P",
+				"Siegle JH",
+				"Belski H",
+				"Denman D",
+				"Buice MA",
+				"Durand S",
+				"Koch C",
+				"Olsen SR",
+				"<b>Jia X*</b>",
+			],
+			"authors_short": [
+				"Akella, S.",
+				"et al."
+			],
+			"title": "Deciphering neuronal variability across states reveals dynamic sensory encoding",
+			"year": "2025",
+			"journal": "Nature Communications",
+			"link": "https://www.nature.com/articles/s41467-025-56733-w",
+			"pdflink": "2025 Deciphering neuronal variability across states reveals dynamic sensory encoding.pdf",
+			"tags": [
+				"peerReview",
+				"selected",
+				"variability"
+			]
+		},
+
 		{
 			"authors": [
 				"Tang D*",
