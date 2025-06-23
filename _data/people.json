@@ -58,13 +58,13 @@
 		},
 
 
-		{
-			"name": "Lan Jiang",
-			"role": "PhD student",
-			"img": "jianglan",
-			"status": "active",
-			"url": ""
-		},
+		// {
+		// 	"name": "Lan Jiang",
+		// 	"role": "PhD student",
+		// 	"img": "jianglan",
+		// 	"status": "active",
+		// 	"url": ""
+		// },
 
 		{
 			"name": "Jiatai Song",
@@ -90,13 +90,13 @@
 			"url": ""
 		},
 
-		{
-			"name": "Qianyun Xia",
-			"role": "Research assistance",
-			"img": "qianyun",
-			"status": "active",
-			"url": ""
-		}
+		// {
+		// 	"name": "Qianyun Xia",
+		// 	"role": "Research assistance",
+		// 	"img": "qianyun",
+		// 	"status": "active",
+		// 	"url": ""
+		// }
 
 		
 	]

@@ -2,6 +2,22 @@
 	"person": [
 		
 		{
+			"name": "Lan Jiang",
+			"role": "Rotation Student",
+			"img": "jianglan",
+			"status": "alumni",
+			"url": ""
+		},
+
+		{
+			"name": "Qianyun Xia",
+			"role": "Research assistant",
+			"img": "qianyun",
+			"status": "alumni",
+			"url": ""
+		},
+
+		{
 			"name": "Jiali Jiang",
 			"role": "Research assistant",
 			"img": "jiangjl",

@@ -4,6 +4,36 @@
 		
 		{
 			"authors": [
+				"Wang Y",
+				"Song X",
+				"Chen X",
+				"Zhou Y",
+				"Ma J",
+				"Zhang F",
+				"Wei L",
+				"...",
+				"Jia X",
+				"Heintz N", 
+				"<b>Li K</b>",
+			],
+			"authors_short": [
+				"Kun Li",
+				"et al."
+			],
+			"title": "Integrating reproductive states and social cues in the control of sociosexual behaviors",
+			"year": "2025",
+			"journal": "Cell",
+			"link": "https://www.cell.com/cell/fulltext/S0092-8674(25)00505-7",
+			"pdflink": "2025 Integrating reproductive states and social cues in the control of sociosexual behaviors.pdf",
+			"tags": [
+				"peerReview",
+				"selected",
+				"collaboration"
+			]
+		},
+
+		{
+			"authors": [
 				"Akella S*",
 				"Ledochowitsch P",
 				"Siegle JH",
