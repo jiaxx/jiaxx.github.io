@@ -58,14 +58,6 @@
 		},
 
 
-		// {
-		// 	"name": "Lan Jiang",
-		// 	"role": "PhD student",
-		// 	"img": "jianglan",
-		// 	"status": "active",
-		// 	"url": ""
-		// },
-
 		{
 			"name": "Jiatai Song",
 			"role": "Undergraduate researcher",
@@ -90,13 +82,6 @@
 			"url": ""
 		},
 
-		// {
-		// 	"name": "Qianyun Xia",
-		// 	"role": "Research assistance",
-		// 	"img": "qianyun",
-		// 	"status": "active",
-		// 	"url": ""
-		// }
 
 		
 	]
