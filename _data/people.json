@@ -8,14 +8,6 @@
 			"url": "https://life.tsinghua.edu.cn/lifeen/info/1035/1581.htm"
 		},
 
-		{
-			"name": "Peng Jiang",
-			"role": "PhD student",
-			"img": "jiangp",
-			"status": "active",
-			"url": "https://jp-17.github.io/"
-		},
-
 
 		{
 			"name": "Disheng Tang",
@@ -41,13 +33,6 @@
 			"url": ""
 		},
 
-		{
-			"name": "Yuxuan Cao",
-			"role": "PhD student",
-			"img": "yuxuan",
-			"status": "active",
-			"url": ""
-		},
 
 		{
 			"name": "Fan Ye",
@@ -60,7 +45,7 @@
 
 		{
 			"name": "Jiatai Song",
-			"role": "Undergraduate researcher",
+			"role": "PhD Student",
 			"img": "songjt",
 			"status": "active",
 			"url": ""
@@ -68,21 +53,28 @@
 
 		{
 			"name": "Jiaji Zhu",
-			"role": "Undergraduate researcher",
+			"role": "PhD Student",
 			"img": "JiajiZhu",
 			"status": "active",
 			"url": ""
 		},
 
 		{
-			"name": "Zhouyang (Hanson) Lu",
-			"role": "Undergraduate researcher",
-			"img": "hanson",
+			"name": "Peng Jiang",
+			"role": "PhD student",
+			"img": "jiangp",
+			"status": "active",
+			"url": "https://jp-17.github.io/"
+		},
+
+		{
+			"name": "Yuxuan Cao",
+			"role": "PhD student",
+			"img": "yuxuan",
 			"status": "active",
 			"url": ""
 		},
 
-
-		
+	
 	]
 }

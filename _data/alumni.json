@@ -2,6 +2,27 @@
 	"person": [
 		
 		{
+			"name": "Zhouyang (Hanson) Lu",
+			"role": "Undergraduate Researcher",
+			"status": "alumni",
+			"url": ""
+		},
+
+		{
+			"name": "Junru Zhao",
+			"role": "Summer intern",
+			"status": "alumni",
+			"url": ""
+		},
+
+		{
+			"name": "Olga Liubimova",
+			"role": "Summer intern",
+			"status": "alumni",
+			"url": ""
+		},
+
+		{
 			"name": "Lan Jiang",
 			"role": "Rotation Student",
 			"img": "jianglan",
