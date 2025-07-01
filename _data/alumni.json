@@ -62,12 +62,14 @@
 			"url": ""
 		},
 
-        {
-			"name": "Yue Zhu",
-			"role": "Rotation student",
+
+		{
+			"name": "Wing Gee (Gigi) Shum",
+			"role": "Summer intern",
 			"status": "alumni",
 			"url": ""
 		},
+
 
         {
 			"name": "Xiuning Zhang",
@@ -84,6 +86,12 @@
 			"url": ""
 		},
 
+		{
+			"name": "Yue Zhu",
+			"role": "Rotation student",
+			"status": "alumni",
+			"url": ""
+		},
 
 		{
 			"name": "Junqiang Hu",
