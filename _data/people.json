@@ -60,10 +60,19 @@
 		},
 
 		{
+			"name": "Zihan Wang",
+			"role": "PhD Student",
+			"img": "zihan",
+			"status": "active",
+			"url": ""
+		},
+
+
+		{
 			"name": "Peng Jiang",
 			"role": "PhD student",
 			"img": "jiangp",
-			"status": "active",
+			"status": "inactive",
 			"url": "https://jp-17.github.io/"
 		},
 
