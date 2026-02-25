@@ -4,6 +4,33 @@
 		
 		{
 			"authors": [
+				"Ye Z",
+				"Shelton AM",
+				"...",
+				"Siegle JH",
+				"Koch C",
+				"Olsen SR",
+				"Harris TD", 
+				"Steinmetz NA*",
+			],
+			"authors_short": [
+				"Ye Z",
+				"et al."
+			],
+			"title": "Ultra-high-density Neuropixels probes improve detection and identification in neuronal recordings",
+			"year": "2025",
+			"journal": "Neuron",
+			"link": "https://www.cell.com/neuron/fulltext/S0896-6273(25)00665-8",
+			"pdflink": "2025 Ultra-high-density Neuropixels probes improve detection and identification in neuronal recordings.pdf",
+			"tags": [
+				"peerReview",
+				"selected",
+				"collaboration"
+			]
+		},
+
+		{
+			"authors": [
 				"Wang Y",
 				"Song X",
 				"Chen X",
