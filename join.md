@@ -6,15 +6,18 @@ permalink: /join/
 
 <h2>The Neural Coding Lab is hiring!</h2>
 
-We are looking for motivated, curious, and talented individuals who are interested in joining a vibrant group to elucidate the neural computation of the brain. If you want to learn more about our field, please take a look at the computational neuroscience online course offered by  <a href="https://compneuro.neuromatch.io/tutorials/intro.html"> Neuromatch Academy</a>.
+We are always interested in working with motivated students and researchers with strong quantitative backgrounds and an interest in neuroscience and artificial intelligence. If you want to learn more about our field, please take a look at the computational neuroscience online course offered by  <a href="https://compneuro.neuromatch.io/tutorials/intro.html"> Neuromatch Academy</a>.
 
-<p><h3>Postdoc position</h3>
-	We are working on interdisciplinary and cutting edge research. Candidates who are passionate about the brain and have a strong background in systems/computational neuroscience, math, physics or computer science are welcome to <a href="/contact">apply</a>. PhD in Neuroscience, Computer Science, Applied Math, Theoretical physics, Data Science or other related fields are encouraged. Informal inquiries are welcome. 
+<p><h3>Postdoctoral researchers</h3>
+	We welcome inquiries from candidates with a strong background in computational neuroscience, systems neuroscience, or machine learning. Please <a href="/contact">apply</a> or email with a CV and a brief description of research interests. 
 
 
-<p><h3>Research technician for experiments</h3>
-	We are actively looking for experienced and responsible individuals to work as research technician with a focus on experiments. Responsibilities include mouse handling, surgery, histology, electrophysiological recordings and other lab related tasks. Prior experience is desireable but not required. Please send a CV with a short description of your goals to <a href="/contact">here</a>. Recommendation letters will be appreciated.
+<p><h3>Graduate students</h3>
+	Prospective graduate students should apply through the appropriate programs at Tsinghua University. Please indicate your interest in our Lab in your application.
 
-<p><h3>Prospective graduate students</h3>
-	Students who are interested in learning in the lab can either apply as interns or as Ph.D candidates to the CLS or PTN graduate programs. 
+<p><h3>Research assistance or interns</h3>
+	We occasionally host undergraduate or visiting student interns. Ideal candidates have training in mathematics, physics, computer science, or related fields, and an interest in neural coding, network dynamics, or NeuroAI. Please send a CV with a short description of your goals to <a href="/contact">here</a>. 
+
+<p><h3>Contact</h3>
+	Please email with your background, research interests, and CV. Due to the volume of inquiries, we may not be able to respond to all messages.
 
