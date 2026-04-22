@@ -7,13 +7,13 @@ permalink: /contact/
 
 
 ### Fill in this form or [email me](mailto:{{site.email}}) for possible opportunities or consulting.
-
+Note: For consulting inquiries, please see [Consulting](/consulting/).
 
 {% include form.html %}
 
 {% include modal.html %}
 
-Note: For consulting inquiries, please see [Consulting](/consulting/).
+
 
 
 <!--
