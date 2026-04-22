@@ -17,13 +17,13 @@ The course is centered on core concepts in computational and systems neuroscienc
 Topics include:
 
 - **Neural coding and representation**  
-  Classical receptive field models, population coding, and high-dimensional representations.
+  GLM, information theory, population coding, and high-dimensional representations.
 
 - **Dynamical systems and state-space models**  
-  Low-dimensional structure, neural trajectories, and computation through dynamics.
+  Latent dynamics, LDS, and HMM.
 
-- **Computation in neural circuits**  
-  Recurrent networks, stability, and flexible transformations of activity.
+- **Computation in neural networks**  
+  E-I balanced networks, low-rank RNN, and motifs.
 
 - **Selectivity, invariance, and hierarchy**  
   Principles underlying generalization and robust sensory representations.
@@ -32,6 +32,6 @@ Topics include:
   Connections between biological and artificial neural networks, including deep learning models as tools for understanding neural computation.
 
 - **Data and methods**  
-  Large-scale neural recordings, encoding and decoding models, and model-based approaches to probing neural function.
+  Large-scale neural recordings, encoding and decoding models, and machine learning.
 
 The course integrates theoretical, computational, and data-driven perspectives, with an emphasis on hands-on coding practices.
