@@ -29,14 +29,12 @@ navigation: # Navigation links
 
 
 tagline: >
-  <p style="font-size: 1.8em;"><i>– Dr. Xiaoxuan Jia</i></p>
-  <p>At the Neural Coding Lab, we study how neural systems represent and compute information, 
-  and how these principles inform artificial intelligence. 
-  Our work focuses on neural coding, circuit dynamics, and population-level computation in the mammalian brain.  
+  <p style="font-size: 1.4em;"><i>– Dr. Xiaoxuan Jia</i></p>
+  <p>At the Neural Coding Lab, we study how visual information is represented and dynamically routed across the visual hierarchy. 
+  Our work focuses on neural coding, encoding and decoding models, and latent nonlinear dynamics in neural networks, and how these principles relate to general intelligence.  
   To learn more, please check out our research <a href="/about">directions</a> and <a href="/pubs">publications</a>. 
 
-  <p>We are looking for talented Postdocs and enthusiastic students to join us. 
-  <p>Please checkout available <a href="/join">positions</a> and send an <a href="/contact">inquiry</a> with CV.
+  <p>If you are interested in joining us, please check available <a href="/join">positions</a> and send an <a href="/contact">inquiry</a> with CV.
 
 hero_img: posts/waveforms.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
