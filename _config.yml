@@ -31,7 +31,7 @@ navigation: # Navigation links
 tagline: >
   <p style="font-size: 1.4em;"><i>– Dr. Xiaoxuan Jia</i></p>
   <p>At the Neural Coding Lab, we study how visual information is represented and dynamically routed across the visual hierarchy. 
-  Our work focuses on neural coding, encoding and decoding models, and latent nonlinear dynamics in neural networks, and how these principles relate to general intelligence.  
+  We aim to understand how these representations emerge from network dynamics and how they can be controlled, linking neural computation with general intelligence.
   To learn more, please check out our research <a href="/about">directions</a> and <a href="/pubs">publications</a>. 
 
   <p>If you are interested in joining us, please check available <a href="/join">positions</a> and send an <a href="/contact">inquiry</a> with CV.
