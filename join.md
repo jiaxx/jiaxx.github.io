@@ -15,7 +15,7 @@ We are always interested in working with motivated students and researchers with
 <p><h3>Graduate students</h3>
 	Prospective graduate students should apply through the appropriate programs at Tsinghua University. Please indicate your interest in our Lab in your application.
 
-<p><h3>Research assistance or interns</h3>
+<p><h3>Visiting students or interns</h3>
 	We occasionally host visiting students or interns. Ideal candidates have training in mathematics, physics, computer science, or related fields, and an interest in neural coding, network dynamics, or NeuroAI. Please send a CV with a short description of your goals to <a href="/contact">here</a>. 
 
 <p><h3>Contact</h3>
