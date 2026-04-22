@@ -8,7 +8,7 @@ I teach topics at the intersection of systems neuroscience, computational neuros
 
 ## Brain Science and Artificial Intelligence (BSAI)
 
-Course materials: https://github.com/NeuralCoding-Lab/BSAI
+Course materials: [BSAI](https://github.com/NeuralCoding-Lab/BSAI)
 
 This course examines how neural systems represent, transform, and compute information, and how these principles relate to modern artificial intelligence.
 
