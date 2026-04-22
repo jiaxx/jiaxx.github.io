@@ -29,7 +29,7 @@ navigation: # Navigation links
 
 
 tagline: >
-  <h2><i>– Dr. Xiaoxuan Jia</i></h2>
+  <p style="font-size: 1.8em;"><i>– Dr. Xiaoxuan Jia</i></p>
   <p>At the Neural Coding Lab, we study how neural systems represent and compute information, 
   and how these principles inform artificial intelligence. 
   Our work focuses on neural coding, circuit dynamics, and population-level computation in the mammalian brain.  
