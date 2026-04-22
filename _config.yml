@@ -23,7 +23,7 @@ navigation: # Navigation links
   - {name: 'Join Us', link: '/join'}
   - {name: 'Teaching', link: '/teaching'}
   - {name: 'Culture', link: '/culture'}
-  - {name: 'Consulting', link: '/consulting'}
+  #- {name: 'Consulting', link: '/consulting'}
   - {name: 'Contact', link: '/contact'}
   
 
