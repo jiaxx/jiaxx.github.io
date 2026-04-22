@@ -16,5 +16,5 @@ We are looking for motivated, curious, and talented individuals who are interest
 	We are actively looking for experienced and responsible individuals to work as research technician with a focus on experiments. Responsibilities include mouse handling, surgery, histology, electrophysiological recordings and other lab related tasks. Prior experience is desireable but not required. Please send a CV with a short description of your goals to <a href="/contact">here</a>. Recommendation letters will be appreciated.
 
 <p><h3>Prospective graduate students</h3>
-	Students who are interested in joining the lab as Ph.D candidates should apply to the CLS or PTN graduate programs. 
+	Students who are interested in learning in the lab can either apply as interns or as Ph.D candidates to the CLS or PTN graduate programs. 
 

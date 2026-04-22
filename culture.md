@@ -16,5 +16,5 @@ We aim to build a professional, inclusive and friendly workplace.
 	
 <p>People joining the lab are expected treat each other with dignity and respect, embrace our lab culture and protect the harmony of our workplace.
 	
-<p>Notice: we will continually revise/grow our lab culture based on shared interests.
+<p>Disclaimer: we will continually revise/grow our lab culture based on shared interests.
 
