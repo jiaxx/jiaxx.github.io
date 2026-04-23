@@ -20,9 +20,9 @@ navigation: # Navigation links
   - {name: 'Team', link: '/people'} #_layout/people.html uses data in people.json in /_data; image file in /assets/img/name_thumb@2x.jpg
   - {name: 'Research', link: '/about'}
   - {name: 'Publications', link: '/pubs'}
-  - {name: 'Join Us', link: '/join'}
   - {name: 'Teaching', link: '/teaching'}
   - {name: 'Culture', link: '/culture'}
+  - {name: 'Join Us', link: '/join'}
   #- {name: 'Consulting', link: '/consulting'}
   - {name: 'Contact', link: '/contact'}
   
