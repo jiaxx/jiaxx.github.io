@@ -1,6 +1,23 @@
 {
 	"papers": [
 		
+		{
+			"authors": [
+				"Xiaoxuan Jia",
+			],
+			"authors_short": [
+				"Jia X",
+			],
+			"title": "Mapping neuronal selectivity and invariance in the mammalian visual cortex using digital twins",
+			"year": "2026",
+			"journal": "Trends In Neurosciences (TINS)",
+			"link": "hhttps://www.cell.com/trends/neurosciences/abstract/S0166-2236(26)00075-5",
+			"pdflink": "2026 Mapping neuronal selectivity and invariance in the mammalian visual cortex using digital twins.pdf",
+			"tags": [
+				"selected",
+				"review"
+			]
+		},
 		
 		{
 			"authors": [
