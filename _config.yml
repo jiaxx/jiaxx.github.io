@@ -4,7 +4,7 @@ author: jiaxx # You :P
 description: > # Meta description of Homepage 
   Brain
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jiaxx.github.io/" #http://www.xiaoxuanvision.net/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jiaxx.github.io" #http://www.xiaoxuanvision.net/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:

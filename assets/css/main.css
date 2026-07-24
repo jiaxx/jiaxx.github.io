@@ -39,3 +39,11 @@
 .rights-notice p{margin-bottom:.55rem;color:#838c8d;font-size:.875rem}
 .rights-notice p:last-child{margin-bottom:0}
 @media only screen and (min-width:48em){.blog-intro__inner{padding:3.25rem 0 2.75rem}.blog-list{grid-template-columns:repeat(2,minmax(0,1fr));gap:2rem;padding:4rem 0 5rem}}
+
+/* Long-form article presentation */
+.hero__subtitle{max-width:44rem;margin:-.2rem auto 1.2rem;color:rgba(255,255,255,.82);font-size:1rem;line-height:1.5}
+.hero--with-subtitle{min-height:22rem}
+.post-content [itemprop="articleBody"]>p:first-child{color:#313237;font-size:1.2rem;line-height:1.65}
+.post-content [itemprop="articleBody"] h2{margin-top:2.75rem;margin-bottom:1rem;font-size:1.65rem;line-height:1.3}
+.post-content [itemprop="articleBody"] blockquote{margin:2rem 0;padding:1.35rem 1.5rem .15rem;color:#343851;background:#f1f6fc;border-left:3px solid #277cea}
+@media only screen and (min-width:62em){.article-figure--wide{position:relative;left:50%;width:70rem;max-width:calc(100vw - 2.5rem);margin-top:3rem;margin-bottom:3rem;transform:translateX(-50%)}}

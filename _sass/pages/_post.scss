@@ -17,6 +17,18 @@
   font-size: .9rem;
 }
 
+.hero__subtitle {
+  max-width: 44rem;
+  margin: -.2rem auto 1.2rem;
+  color: rgba(255, 255, 255, .82);
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.hero--with-subtitle {
+  min-height: 22rem;
+}
+
 .hero__meta-separator {
   color: rgba(255, 255, 255, .5);
 }
@@ -46,6 +58,41 @@
 .article-figure__credit {
   margin-top: .2rem;
   font-size: .8rem;
+}
+
+.post-content [itemprop="articleBody"] {
+  > p:first-child {
+    color: $heading-color;
+    font-size: 1.2rem;
+    line-height: 1.65;
+  }
+
+  h2 {
+    margin-top: 2.75rem;
+    margin-bottom: 1rem;
+    font-size: 1.65rem;
+    line-height: 1.3;
+  }
+
+  blockquote {
+    margin: 2rem 0;
+    padding: 1.35rem 1.5rem .15rem;
+    color: $text-color;
+    background: #f1f6fc;
+    border-left: 3px solid $primary;
+  }
+}
+
+@include breakpoint($lg) {
+  .article-figure--wide {
+    position: relative;
+    left: 50%;
+    width: 70rem;
+    max-width: calc(100vw - 2.5rem);
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    transform: translateX(-50%);
+  }
 }
 
 .rights-notice {

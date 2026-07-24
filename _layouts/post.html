@@ -20,9 +20,9 @@ layout: compress
 {% include header.html %}
 
   {% if page.featured-img %}
-  <div class="hero lazyload" data-bg="{{ site.url }}{{ site.baseurl }}/assets/img/posts/{{ page.featured-img }}.jpg">
+  <div class="hero{% if page.subtitle %} hero--with-subtitle{% endif %} lazyload" data-bg="{{ site.url }}{{ site.baseurl }}/assets/img/posts/{{ page.featured-img }}.jpg">
   {% else %}
-  <div class="hero dark-bg">
+  <div class="hero{% if page.subtitle %} hero--with-subtitle{% endif %} dark-bg">
   {% endif %}
     <div class="hero__wrap">
       {% if post.categories or page.categories %}
@@ -39,6 +39,9 @@ layout: compress
         </div>
       {% endif %}
       <h1 class="hero__title">{{ page.title }}</h1>
+      {% if page.subtitle %}
+        <p class="hero__subtitle">{{ page.subtitle | escape }}</p>
+      {% endif %}
       {% assign post_author = page.author | default: site.social.name | default: site.author %}
       <p class="hero__meta">
         <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
