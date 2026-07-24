@@ -2,63 +2,42 @@
 layout: compress
 ---
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en-US" }}">
+<html lang="{{ page.lang | default: site.lang | default: 'en-US' }}">
 
   {% include head.html %}
 
   <body class="site">
 
     {% if site.google_tag_manager %}
-
-      <!-- Google Tag Manager (noscript) -->
       <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.google_tag_manager }}"
       height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-      <!-- End Google Tag Manager (noscript) -->
-
     {% endif %}
 
     {% include header.html %}
-	
+
     <div class="hero--small">
       <div class="hero__wrap">
         <h1 class="hero__title">{{ page.title }}</h1>
       </div>
     </div>
 
-    <main class="site__content">
-        <div class="container">
-          <div class="page-content">
-		
-		<p>My research examines how visual information is represented and dynamically transformed in the complex neural network. A central goal is to understand how neural systems convert highly variable visual inputs into stable yet flexible representations that support perception and behavior, and how these principles relate to general intelligence. We also study how neural activity can be read out and controlled through brain–machine interfaces, linking theory to real-world applications.  </p>
+    <main class="site__content research-index">
+      <section class="research-intro">
+        <div class="container research-intro__inner">
+          <p class="research-intro__lead">We study how visual systems transform variable sensory input into representations that remain reliable enough for perception yet flexible enough for behavior.</p>
+          <p>Our work connects neural coding, network dynamics, and learning with emerging tools for reading, modeling, and controlling brain activity. Select a direction below to see the questions we pursue, our related publications, and a concise view of where the field is heading.</p>
+        </div>
+      </section>
 
-    <p>Current work is organized around several themes:</p>
-    <!--the dynamics and variability aspects of sensory processing in a large neural network under different brain states.-->
-
-    <!--
-		<p>Our approach combines large-scale electrophysiological recording of neural activity, closed-loop BMI, sophisticated data analysis and state-of-the-art modeling with quantifiable behavioral tasks. </p>
-    -->
-
-		
-      <!-- <section class="blog">
-        <div class="container"> -->
-          <div class="post-list" padding-top="0em" itemscope="" itemtype="http://schema.org/Blog">
-			{% assign projects = site.data.research.projects %}
-			{% for project in projects %}
-
-				{% include project.html %}
-			{% endfor %}
-
-          </div>
-        <!-- </div>
-      </section> -->
-				
-			
-  </div>
-</div>
+      <section class="container research-grid" aria-label="Research directions">
+        {% assign projects = site.data.research.projects %}
+        {% for project in projects %}
+          {% include project.html %}
+        {% endfor %}
+      </section>
     </main>
 
     {% include footer.html %}
 
   </body>
-
 </html>

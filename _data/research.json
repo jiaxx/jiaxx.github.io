@@ -1,42 +1,40 @@
 {
-	"projects": [
-		{
-			"title": "Neural coding",
-			"subtitle": "Investigating information representation, transformation and transmission along visual hierarchy",
-			"img": "representation",
-			"url":"https://www.nature.com/articles/s41586-020-03171-x"
-
-		},
-		{
-			"title": "Dynamic network",
-			"subtitle": "Investigating the dynamic nature of functional networks for different brain states",
-			"img": "brainRNN",
-			"url":"https://www.nature.com/articles/s41467-024-49704-0"
-		},
-		{
-			"title": "Learning rule",
-			"subtitle": "Search for simple rules that guide the self-organization of the complex networks",
-			"img": "learning",
-			"url": "https://elifesciences.org/articles/60830"
-		},
-		{
-			"title": "Brain-reader",
-			"subtitle": "Generate images directly from brain activity",
-			"img": "brainreader",
-			"url": ""
-		},
-		{
-			"title": "Neural control",
-			"subtitle": "Build close-loop BCI to test the theories of neural encoding and decoding",
-			"img": "BMI"
-		},
-		{
-			"title": "NeuroAI",
-			"subtitle": "Use the state-of-art DNN models to predict brain activity and vice versa",
-			"img": "ANN",
-			"url":"https://openreview.net/forum?id=c0l2YolqD2T&noteId=WuvQmP-KBPD"
-		},
-		
-		
-	]
+  "projects": [
+    {
+      "title": "Neural coding",
+      "subtitle": "How visual information becomes stable, flexible population representations",
+      "img": "representation",
+      "url": "/research/neural-coding/"
+    },
+    {
+      "title": "Dynamic networks",
+      "subtitle": "How brain state and context reshape communication across the visual hierarchy",
+      "img": "brainRNN",
+      "url": "/research/dynamic-networks/"
+    },
+    {
+      "title": "Learning rules",
+      "subtitle": "How experience organizes complex networks through simple, local mechanisms",
+      "img": "learning",
+      "url": "/research/learning-rules/"
+    },
+    {
+      "title": "Brain reading",
+      "subtitle": "How neural activity can be translated into interpretable visual content",
+      "img": "brainreader",
+      "url": "/research/brain-reading/"
+    },
+    {
+      "title": "Neural control",
+      "subtitle": "How closed-loop interfaces can test and shape neural computation",
+      "img": "BMI",
+      "url": "/research/neural-control/"
+    },
+    {
+      "title": "NeuroAI",
+      "subtitle": "How neuroscience and artificial intelligence can constrain one another",
+      "img": "ANN",
+      "url": "/research/neuroai/"
+    }
+  ]
 }

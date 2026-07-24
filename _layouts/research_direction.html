@@ -1,0 +1,98 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en-US' }}">
+
+  {% include head.html %}
+
+  <body class="site">
+
+    {% if site.google_tag_manager %}
+      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.google_tag_manager }}"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    {% endif %}
+
+    {% include header.html %}
+
+    <div class="hero--small">
+      <div class="hero__wrap">
+        <h1 class="hero__title">{{ page.title }}</h1>
+      </div>
+    </div>
+
+    <main class="site__content research-direction">
+      <article>
+        <section class="research-direction__section research-summary">
+          <div class="container research-direction__narrow">
+            <a class="research-direction__back" href="{{ '/about/' | relative_url }}">&larr; All research directions</a>
+            <p class="research-summary__subtitle">{{ page.subtitle }}</p>
+            <h2>Summary</h2>
+            <div class="research-direction__prose">{{ page.summary | markdownify }}</div>
+
+            <div class="research-methods" aria-label="Methods and perspectives">
+              {% for method in page.methods %}
+                <span>{{ method }}</span>
+              {% endfor %}
+            </div>
+          </div>
+        </section>
+
+        <section class="research-direction__section research-direction__section--tint">
+          <div class="container research-direction__wide">
+            <div class="research-section-heading">
+              <div>
+                <p class="research-direction__kicker">From the lab</p>
+                <h2>{{ page.work_heading | default: 'Related publications from our group' }}</h2>
+              </div>
+              <a href="{{ '/pubs/' | relative_url }}">View all publications &rarr;</a>
+            </div>
+
+            {% if page.work_note %}
+              <p class="research-work-note">{{ page.work_note }}</p>
+            {% endif %}
+
+            <div class="research-publication-list">
+              {% for publication in page.publications %}
+                <article class="research-publication">
+                  <div class="research-publication__meta">
+                    <span>{{ publication.year }}</span>
+                    <span>{{ publication.journal }}</span>
+                  </div>
+                  <h3><a href="{{ publication.url }}" target="_blank" rel="noopener noreferrer">{{ publication.title }}</a></h3>
+                  <p>{{ publication.note }}</p>
+                  <div class="research-publication__links">
+                    <a href="{{ publication.url }}" target="_blank" rel="noopener noreferrer">{{ publication.link_label | default: 'Publisher' }}</a>
+                    {% if publication.pdf %}
+                      <a href="{{ publication.pdf | relative_url }}" target="_blank" rel="noopener noreferrer">PDF</a>
+                    {% endif %}
+                  </div>
+                </article>
+              {% endfor %}
+            </div>
+          </div>
+        </section>
+
+        <nav class="research-direction__section research-next" aria-label="Explore other research directions">
+          <div class="container research-direction__wide">
+            <p class="research-direction__kicker">Keep exploring</p>
+            <h2>Other directions</h2>
+            <div class="research-next__grid">
+              {% for project in site.data.research.projects %}
+                {% unless project.url == page.permalink %}
+                  <a href="{{ project.url | relative_url }}">
+                    <img src="{{ '/assets/img/research/' | append: project.img | append: '_thumb@2x.jpg' | relative_url }}" alt="" role="presentation" loading="lazy">
+                    <span>{{ project.title }}</span>
+                  </a>
+                {% endunless %}
+              {% endfor %}
+            </div>
+          </div>
+        </nav>
+      </article>
+    </main>
+
+    {% include footer.html %}
+
+  </body>
+</html>
