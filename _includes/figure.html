@@ -1,0 +1,13 @@
+<figure class="article-figure{% if include.class %} {{ include.class | escape }}{% endif %}">
+  <img src="{{ include.src | relative_url }}"
+       alt="{{ include.alt | escape }}"
+       loading="lazy"
+       {% if include.width %}width="{{ include.width }}"{% endif %}
+       {% if include.height %}height="{{ include.height }}"{% endif %}>
+  {% if include.caption or include.credit %}
+    <figcaption>
+      {% if include.caption %}<span class="article-figure__caption">{{ include.caption }}</span>{% endif %}
+      {% if include.credit %}<span class="article-figure__credit">{{ include.credit }}</span>{% endif %}
+    </figcaption>
+  {% endif %}
+</figure>

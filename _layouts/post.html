@@ -39,19 +39,35 @@ layout: compress
         </div>
       {% endif %}
       <h1 class="hero__title">{{ page.title }}</h1>
+      {% assign post_author = page.author | default: site.social.name | default: site.author %}
       <p class="hero__meta">
-        <span>
-          <time>{{ page.date | date_to_string }}</time>
-        </span>
+        <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
+        <span class="hero__meta-separator" aria-hidden="true">&middot;</span>
+        <span>By {{ post_author | escape }}</span>
       </p>
     </div>
   </div>
 
   <main class="site__content">
     <div class="container">
-      <article class="post-content" itemprop="articleBody">
+      <article class="post-content" itemscope itemtype="https://schema.org/BlogPosting">
 
-        {{ content }}
+        <meta itemprop="headline" content="{{ page.title | escape }}">
+        <meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}">
+        <meta itemprop="author" content="{{ post_author | escape }}">
+
+        <div itemprop="articleBody">
+          {{ content }}
+        </div>
+
+        {% unless page.reposting_notice == false %}
+          {% assign rights_holder = page.rights_holder | default: post_author %}
+          <aside class="rights-notice" aria-labelledby="rights-notice-title">
+            <h2 id="rights-notice-title">Reposting and permissions</h2>
+            <p>&copy; {{ page.date | date: "%Y" }} {{ rights_holder | escape }}. All rights reserved. Unless otherwise credited, reposting, republishing, or redistributing this article or its original figures, in whole or in part, requires prior written permission.</p>
+            <p>Brief quotations are welcome with clear attribution and a link to this page. For other uses, please <a href="mailto:{{ site.email | escape }}?subject={{ 'Blog reposting permission: ' | append: page.title | uri_escape }}">request permission</a>.</p>
+          </aside>
+        {% endunless %}
 
       </article>
       <div class="post-content controls__inner">

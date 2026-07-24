@@ -1,0 +1,17 @@
+{% assign post_author = post.author | default: site.social.name | default: site.author %}
+{% assign date_format = site.sleek.date_format | default: "%B %-d, %Y" %}
+<article class="blog-card" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+  <a class="blog-card__link" href="{{ post.url | relative_url }}" itemprop="url">
+    <div class="blog-card__meta">
+      <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: date_format }}</time>
+      <span class="blog-card__author" itemprop="author">{{ post_author | escape }}</span>
+    </div>
+    <h2 itemprop="headline">{{ post.title | strip_html }}</h2>
+    {% if post.summary %}
+      <p itemprop="description">{{ post.summary | strip_html }}</p>
+    {% else %}
+      <p itemprop="description">{{ post.excerpt | strip_html | truncatewords: 28 }}</p>
+    {% endif %}
+    <span class="blog-card__read-more" aria-hidden="true">Read article <span>&rarr;</span></span>
+  </a>
+</article>

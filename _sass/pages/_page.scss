@@ -101,3 +101,147 @@
     padding-top: 5em;
   }
 }
+
+.blog-hero {
+  background: linear-gradient(135deg, #20263a 0%, #313b59 58%, #244d71 100%);
+
+  &::before {
+    background: rgba(20, 24, 38, .16);
+  }
+
+  .hero__title {
+    padding-top: .25rem;
+  }
+}
+
+.hero__eyebrow {
+  margin-bottom: .2rem;
+  color: rgba(255, 255, 255, .7);
+  font-size: .75rem;
+  font-weight: 600;
+  letter-spacing: .18em;
+  text-transform: uppercase;
+}
+
+.blog-page {
+  background: $light-bg-color;
+}
+
+.blog-intro {
+  background: $bg-color;
+  border-bottom: 1px solid $border;
+}
+
+.blog-intro__inner {
+  max-width: 52.5rem;
+  padding: 2.5rem 0 2rem;
+
+  h2 {
+    margin-bottom: .5rem;
+    font-size: 1.5rem;
+  }
+
+  p:last-child {
+    margin-bottom: 0;
+    color: $grey;
+  }
+
+  @include breakpoint($md) {
+    padding: 3.25rem 0 2.75rem;
+  }
+}
+
+.blog-list {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+  padding: 2.5rem 0 4rem;
+
+  @include breakpoint($md) {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 2rem;
+    padding: 4rem 0 5rem;
+  }
+}
+
+.blog-card {
+  min-width: 0;
+  background: $bg-color;
+  border-top: 3px solid $primary;
+  border-radius: 4px;
+  box-shadow: 0 1px 5px rgba(31, 39, 61, .08);
+  transition: box-shadow .25s ease, transform .25s ease;
+
+  &:hover,
+  &:focus-within {
+    box-shadow: 0 14px 36px rgba(31, 39, 61, .13);
+    transform: translateY(-2px);
+  }
+}
+
+.blog-card__link {
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+  padding: 1.75rem;
+  color: $text-color;
+  border-bottom: 0;
+
+  &:hover,
+  &:focus {
+    color: $text-color;
+    border-bottom: 0;
+  }
+
+  h2 {
+    margin-bottom: .8rem;
+    font-size: 1.45rem;
+    line-height: 1.25;
+  }
+
+  p {
+    color: $grey;
+  }
+}
+
+.blog-card__meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .35rem .8rem;
+  margin-bottom: 1.1rem;
+  color: $grey;
+  font-size: .75rem;
+  font-weight: 600;
+  letter-spacing: .055em;
+  text-transform: uppercase;
+}
+
+.blog-card__author::before {
+  content: "\2022";
+  padding-right: .8rem;
+  color: $primary;
+}
+
+.blog-card__read-more {
+  margin-top: auto;
+  padding-top: .5rem;
+  color: $primary;
+  font-size: .875rem;
+  font-weight: 600;
+
+  span {
+    display: inline-block;
+    transition: transform .2s ease;
+  }
+
+  .blog-card__link:hover & span,
+  .blog-card__link:focus & span {
+    transform: translateX(4px);
+  }
+}
+
+.blog-empty {
+  margin: 0;
+  padding: 4rem 0;
+  color: $grey;
+}

@@ -1,0 +1,53 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en-US" }}">
+
+  {% include head.html %}
+
+  <body class="site">
+
+    {% if site.google_tag_manager %}
+      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.google_tag_manager }}"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    {% endif %}
+
+    {% include header.html %}
+
+    <div class="hero--small blog-hero">
+      <div class="hero__wrap">
+        <p class="hero__eyebrow">Neural Coding Lab</p>
+        <h1 class="hero__title">{{ page.title }}</h1>
+      </div>
+    </div>
+
+    <main class="site__content blog-page">
+      <section class="blog-intro" aria-labelledby="blog-intro-heading">
+        <div class="container">
+          <div class="blog-intro__inner">
+            <h2 id="blog-intro-heading">Ideas from the lab</h2>
+            <div class="blog-intro__copy">{{ content }}</div>
+          </div>
+        </div>
+      </section>
+
+      <section class="blog-list-section" aria-label="Blog posts">
+        <div class="container">
+          {% if site.posts.size > 0 %}
+            <div class="blog-list" itemscope itemtype="https://schema.org/Blog">
+              {% for post in site.posts %}
+                {% include blog-card.html %}
+              {% endfor %}
+            </div>
+          {% else %}
+            <p class="blog-empty">The first post is on its way.</p>
+          {% endif %}
+        </div>
+      </section>
+    </main>
+
+    {% include footer.html %}
+
+  </body>
+</html>
