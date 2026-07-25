@@ -29,6 +29,15 @@
 
     {% include critical.css %}
 
+    /* Keep hyperlinks neutral while the full stylesheet loads. */
+    a { color: #313237; border-bottom-color: #313237; }
+    a:hover, a:focus { color: #000; border-bottom-color: #000; }
+    .header__link::after { background: #313237; }
+    .research-card__eyebrow,
+    .research-direction__kicker,
+    .research-publication__meta,
+    .research-methods span { color: #313237; font-weight: 700; }
+
   </style>
   <link rel="preload" href="{{ '/assets/css/main.css' | relative_url }}" as="style" onload="this.rel='stylesheet'">
   <noscript><link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}"></noscript>

@@ -100,3 +100,18 @@
 .research-direction__back:hover,.research-direction__back:focus{border-bottom:0}
 .research-summary__subtitle{margin-bottom:2.25rem;padding-bottom:1.6rem;color:#838c8d;font-size:1.05rem;line-height:1.6;border-bottom:1px solid #ededed}
 .research-summary .research-methods{margin-top:1.75rem}
+
+/* Neutral hyperlink palette */
+a{color:#313237;border-bottom-color:#313237}
+a:hover,a:focus{color:#000;border-bottom-color:#000}
+.header__link::after{background:#313237}
+.header__link:hover{color:#000}
+footer a:hover,footer a:focus{color:#000}
+.label:hover,.label:focus{background-color:#313237;border-color:#313237}
+.controls__item a:hover{color:#000}
+.controls__item a:hover svg{fill:#000}
+.blog-card__read-more,.research-card__cta{color:#313237}
+.research-publication h3 a:hover,.research-publication h3 a:focus{color:#000}
+.research-next__grid a:hover,.research-next__grid a:focus{color:#000;border-color:#aeb4ba}
+.research-card__eyebrow,.research-direction__kicker,.research-publication__meta{color:#313237;font-weight:700}
+.research-methods span{color:#313237;font-weight:700}

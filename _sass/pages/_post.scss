@@ -160,11 +160,11 @@
     }
 
     &:hover {
-      color: $primary;
+      color: $link-hover-color;
       border-bottom: 0;
 
       svg {
-        fill: $primary;
+        fill: $link-hover-color;
       }
     }
   }

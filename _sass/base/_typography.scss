@@ -46,8 +46,8 @@ a {
 
   &:hover,
   &:focus {
-    color: $primary-light;
-    border-bottom: 1px solid $primary-light;
+    color: $link-hover-color;
+    border-bottom: 1px solid $link-hover-color;
   }
 }
 
